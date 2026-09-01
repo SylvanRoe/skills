@@ -1,10 +1,10 @@
 {
-    "name": "kk-skills",
-    "description": "kk (SylvanRoe) 的自研 AI agent skills 集合：视频文案提取与多平台二创（小红书/抖音/B站/YouTube），本地离线运行。",
+    "name": "sylvanroe-skills",
+    "description": "SylvanRoe 的自研 AI agent skills 集合：视频文案提取与多平台二创（小红书/抖音/B站/YouTube），本地离线运行。",
     "version": "1.0.0",
     "author": {
-        "name": "kk (SylvanRoe)",
-        "email": "kk@workbuddy.local"
+        "name": "SylvanRoe",
+        "email": "sylvanroe@users.noreply.github.com"
     },
     "homepage": "https://github.com/SylvanRoe/skills",
     "repository": "https://github.com/SylvanRoe/skills",
