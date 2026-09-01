@@ -1,6 +1,6 @@
-# kk-skills
+# skills
 
-kk（SylvanRoe）自研的 **AI agent skills 集合**，采用 [anthropic/skills](https://github.com/anthropics/skills) 格式，可安装为 Claude Code 插件或用 `npx skills` 加载，也能被任意支持函数调用的 LLM（DeepSeek / OpenAI / Codex 等）调用。
+自研的 **AI agent skills 集合**，采用 [anthropic/skills](https://github.com/anthropics/skills) 格式，可安装为 Claude Code 插件或用 `npx skills` 加载，也能被任意支持函数调用的 LLM（DeepSeek / OpenAI / Codex 等）调用。
 
 所有 skill 均**本地离线**运行，数据不上传第三方。
 
