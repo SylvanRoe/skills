@@ -1,1 +1,169 @@
-LS0tCm5hbWU6IHZpZGVvLXNjcmlwdC1leHRyYWN0CmRlc2NyaXB0aW9uOiAiRXh0cmFjdCB0cmFuc2NyaXB0IGFuZCByZXB1cnBvc2UgdmlkZW8vYXVkaW8gaW50byBwbGF0Zm9ybS1yZWFkeSBzY3JpcHRzLiBMb2NhbCwgb2ZmbGluZSBwaXBlbGluZTogZG93bmxvYWQgZnJvbSBsaW5rcyAoRG91eWluL0JpbGliaWxpL1hpYW9ob25nc2h1L1lvdVR1YmUvZXRjLikgdmlhIHl0LWRscCwgdHJhbnNjcmliZSBzcGVlY2ggdG8gdGV4dCBpbiBDaGluZXNlL0VuZ2xpc2ggd2l0aCBmYXN0ZXItd2hpc3BlciArIGZmbXBlZywgdGhlbiByZXdyaXRlIGludG8gWGlhb2hvbmdzaHUgbm90ZXMsIERvdXlpbiBzY3JpcHRzLCBCaWxpYmlsaSB2aWRlbyBvdXRsaW5lcywgb3IgWW91VHViZSBzY3JpcHRzICgzIHJld3JpdGUgc3RyZW5ndGhzIGVhY2gpLiBVc2UgZm9yOiDmj5Dlj5bmlofmoYgsIOinhumikei9rOWGmSwg5a2X5bmV55Sf5oiQLCDnn63op4bpopHohJrmnKwsIOWwj+e6ouS5pueslOiusCwg5Y+j5pKt56i/LCDkuozliJssIHRyYW5zY3JpYmUgdmlkZW8sIGV4dHJhY3QgdHJhbnNjcmlwdCwgdmlkZW8gc2NyaXB0LCBzdWJ0aXRsZXMsIHJlcHVycG9zZSBjb250ZW50LCByZXB1cnBvc2luZywgY29udGVudCByZXB1cnBvc2luZywgc3BlZWNoIHRvIHRleHQsIHdoaXNwZXIgdHJhbnNjcmlwdGlvbiwgZG91eWluIHNjcmlwdCwgeGlhb2hvbmdzaHUsIGJpbGliaWxpLCB5b3V0dWJlIHNjcmlwdC4iCmFsbG93ZWQtdG9vbHM6IEJhc2gocHl0aG9uOiopLCBCYXNoKHBpcDoqKSwgQmFzaChmZm1wZWc6KiksIEJhc2goZmZwcm9iZToqKSwgQmFzaCh5dC1kbHA6KikKLS0tCgojIFZpZGVvIFNjcmlwdCBFeHRyYWN0CgpFeHRyYWN0IGEgdmlkZW8gb3IgYXVkaW8gZmlsZSdzIHRyYW5zY3JpcHQgYW5kIHJlcHVycG9zZSBpdCBpbnRvIHJlYWR5LXRvLXB1Ymxpc2ggc2NyaXB0cyBmb3IgbXVsdGlwbGUgcGxhdGZvcm1zIOKAlCBlbnRpcmVseSAqKm9mZmxpbmUgLyBsb2NhbCoqLCBubyB0aGlyZC1wYXJ0eSB1cGxvYWQuCgohW3ZpZGVvLXNjcmlwdC1leHRyYWN0XShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL2xvY2FsLW9mZmxpbmUtMmVhNDRmKQoKIyMgV2hhdCBpdCBkb2VzCgoxLiAqKkZldGNoKiog4oCUIGRvd25sb2FkIHZpZGVvL2F1ZGlvIGZyb20gYSBVUkwgKHl0LWRscCBzdXBwb3J0cyBEb3V5aW4sIEJpbGliaWxpLCBYaWFvaG9uZ3NodSwgS3VhaXNob3UsIFdlaWJvLCBZb3VUdWJlLCBhbmQgbW9yZSkuCjIuICoqVHJhbnNjcmliZSoqIOKAlCBleHRyYWN0IGF1ZGlvIHdpdGggYGZmbXBlZ2AsIHJ1biBgZmFzdGVyLXdoaXNwZXJgIGxvY2FsbHkgdG8gZ2V0IHRleHQgKyBgLnNydGAgc3VidGl0bGVzICsgc2VnbWVudGVkIGAuanNvbmAuCjMuICoqU3RydWN0dXJlKiog4oCUIHR1cm4gdGhlIHRyYW5zY3JpcHQgaW50byBub3RlcyAvIGEgbWluZC1tYXAgb3V0bGluZS4KNC4gKipSZXB1cnBvc2UqKiDigJQgcmV3cml0ZSBpbnRvIHBsYXRmb3JtLW5hdGl2ZSBzY3JpcHRzOiAqKlhpYW9ob25nc2h1KiosICoqRG91eWluKiosICoqQmlsaWJpbGkqKiwgKipZb3VUdWJlKiosIGVhY2ggYXQgMyBzdHJlbmd0aHMgKGxpZ2h0IC8gbWVkaXVtIC8gaGVhdnkpLgoKQWxsIHByb2Nlc3NpbmcgcnVucyBvbiB0aGUgdXNlcidzIG1hY2hpbmUuIFRoZSB2aWRlbyBuZXZlciBsZWF2ZXMgdGhlIGRldmljZS4KCiMjIFF1aWNrIFN0YXJ0CgpgYGBiYXNoCmNkIHRvb2xzL3ZpZGVvLXNjcmlwdC1leHRyYWN0CgojIDEuIEluc3RhbGwgZGVwZW5kZW5jaWVzIChmZm1wZWcgbXVzdCBiZSBpbnN0YWxsZWQgc3lzdGVtLXdpZGUgZmlyc3QpCnB5dGhvbiBzY3JpcHRzL3NldHVwX2Vudi5weQoKIyAyLiBUcmFuc2NyaWJlIGEgbG9jYWwgZmlsZSAtPiAudHh0IC8gLnNydCAvIC5qc29uCnB5dGhvbiBzY3JpcHRzL3RyYW5zY3JpYmUucHkgInZpZGVvLm1wNCIgLS1tb2RlbCBzbWFsbCAtLWxhbmd1YWdlIHpoIC0tb3V0cHV0LWRpciAuL291dAoKIyAzLiBSZXB1cnBvc2UgdGhlIHRyYW5zY3JpcHQgaW50byBhIFhpYW9ob25nc2h1IG5vdGUgKG1lZGl1bSBzdHJlbmd0aCkKcHl0aG9uIHNjcmlwdHMvcmV3cml0ZS5weSAuL291dC92aWRlby50eHQgLS1wbGF0Zm9ybSB4aWFvaG9uZ3NodSAtLXN0eWxlIG1lZGl1bQpgYGAKCiMjIEZlYXR1cmVzCgp8IENhcGFiaWxpdHkgfCBIb3cgfAp8LS0tLS0tLS0tLS0tfC0tLS0tfAp8IE11bHRpLXBsYXRmb3JtIGxpbmsgZG93bmxvYWQgfCBgc2NyaXB0cy9mZXRjaF9tZWRpYS5weWAgKHl0LWRscCkgfAp8IExvY2FsIHNwZWVjaC10by10ZXh0IChDTi9FTikgfCBgc2NyaXB0cy90cmFuc2NyaWJlLnB5YCAoZmZtcGVnICsgZmFzdGVyLXdoaXNwZXIpIHwKfCBOb3RlcyAmIG1pbmQtbWFwIG91dGxpbmUgfCBwcm9tcHRzIGluIGByZWZlcmVuY2VzL3Byb21wdHMuanNvbmAgKGBub3Rlc2AsIGBtaW5kbWFwYCkgfAp8IDQtcGxhdGZvcm0gcmVwdXJwb3NpbmcgfCBgc2NyaXB0cy9yZXdyaXRlLnB5YCArIGByZWZlcmVuY2VzL3Byb21wdHMuanNvbmAgfAp8IE11bHRpLUxMTSBiYWNrZW5kIHwgYC0tYmFja2VuZCBkZWVwc2VlayAvIG9wZW5haSAvIGxvY2FsIC8gbm9uZWAgfAp8IEFnZW50IC8gZnVuY3Rpb24tY2FsbGluZyB8IGByZWZlcmVuY2VzL3Rvb2xfc2NoZW1hLmpzb25gIHwKCiMjIFN0ZXAgMSDigJQgRG93bmxvYWQgZnJvbSBhIGxpbmsKCmBgYGJhc2gKcHl0aG9uIHNjcmlwdHMvZmV0Y2hfbWVkaWEucHkgImh0dHBzOi8vd3d3LmJpbGliaWxpLmNvbS92aWRlby9CVnh4eHgiIC0tYXVkaW8tb25seSAtbyAuL2Rvd25sb2FkcwpgYGAKCklmIHlvdSBhbHJlYWR5IGhhdmUgYSBsb2NhbCBmaWxlLCBza2lwIHRoaXMgc3RlcC4KCiMjIFN0ZXAgMiDigJQgVHJhbnNjcmliZQoKYGBgYmFzaApweXRob24gc2NyaXB0cy90cmFuc2NyaWJlLnB5ICJ2aWRlby5tcDQiIFwKICAgIC0tbW9kZWwgc21hbGwgXCAgICAgICAgICAjIHRpbnkgfCBzbWFsbCB8IG1lZGl1bSB8IGxhcmdlLXYzCiAgICAtLWxhbmd1YWdlIHpoIFwgICAgICAgICAgIyB6aCAvIGVuIC8gYXV0by1kZXRlY3QKICAgIC0taGYtbWlycm9yIGh0dHBzOi8vaGYtbWlycm9yLmNvbSBcCiAgICAtLW91dHB1dC1kaXIgLi9vdXQKYGBgCgpPdXRwdXRzIGluIGAuL291dGA6Cgp8IEZpbGUgfCBDb250ZW50cyB8CnwtLS0tLS18LS0tLS0tLS0tLXwKfCBgKi50eHRgIHwgUGxhaW4gdHJhbnNjcmlwdCB8CnwgYCouc3J0YCB8IFN1YnRpdGxlcyAoZWRpdGFibGUgaW4gYW55IGVkaXRvcikgfAp8IGAqLmpzb25gIHwgU2VnbWVudHMgd2l0aCB0aW1lc3RhbXBzICsgbGFuZ3VhZ2UgKyBjb25maWRlbmNlIHwKCmAtLW1vZGVsYCB0cmFkZS1vZmY6IGBzbWFsbGAgaXMgZmFzdCBhbmQgYWNjdXJhdGUgZm9yIGNsZWFyIENOIHNwZWVjaDsgdXNlIGBsYXJnZS12M2AgZm9yIGhlYXZ5IGFjY2VudCwgamFyZ29uLCBvciBub2lzeSBhdWRpbyAoc2xvd2VyLCBtb3JlIFJBTSkuCgojIyBTdGVwIDMg4oCUIFJlcHVycG9zZSAvIFJld3JpdGUKCmBgYGJhc2gKcHl0aG9uIHNjcmlwdHMvcmV3cml0ZS5weSAuL291dC92aWRlby50eHQgXAogICAgLS1wbGF0Zm9ybSB4aWFvaG9uZ3NodSBcICAgIyB4aWFvaG9uZ3NodSB8IGRvdXlpbiB8IGJpbGliaWxpIHwgeW91dHViZQogICAgLS1zdHlsZSBtZWRpdW0gXCAgICAgICAgICAgICMgbGlnaHQgfCBtZWRpdW0gfCBoZWF2eQogICAgLS1iYWNrZW5kIG5vbmUgICAgICAgICAgICAgICMgbm9uZSB8IGRlZXBzZWVrIHwgb3BlbmFpIHwgbG9jYWwKYGBgCgojIyMgUGxhdGZvcm1zCgp8IGAtLXBsYXRmb3JtYCB8IFRhcmdldCB8IERlbGl2ZXJhYmxlIHwKfC0tLS0tLS0tLS0tLS0tfC0tLS0tLS0tfC0tLS0tLS0tLS0tLS18CnwgYHhpYW9ob25nc2h1YCB8IOWwj+e6ouS5piB8IEltYWdlLXRleHQgbm90ZSAo5qCH6aKYL+ato+aWhy/moIfnrb4pIHwKfCBgZG91eWluYCB8IOaKlumfsyB8IFNob3J0LXZpZGVvIHZvaWNlb3ZlciBzY3JpcHQgKGhvb2sgKyBiZWF0cyArIENUQSkgfAp8IGBiaWxpYmlsaWAgfCDlk5Tlk6nlk5Tlk6kgfCBNaWQtbG9uZyB2aWRlbyBvdXRsaW5lICjliIZQL+eroOiKgi/mlofmoYgpIHwKfCBgeW91dHViZWAgfCBZb3VUdWJlIHwgVmlkZW8gc2NyaXB0ICsgRW5nbGlzaCBTRU8gKHRpdGxlL2Rlc2NyaXB0aW9uL3RhZ3MpIHwKCiMjIyBTdHJlbmd0aHMKCi0gKipsaWdodCoqIOKAlCBrZWVwIHRoZSBvcmlnaW5hbCBzdHJ1Y3R1cmUgYW5kIHdvcmRpbmcsIGxpZ2h0IHBvbGlzaCBvbmx5LgotICoqbWVkaXVtKiog4oCUIHJlc3RydWN0dXJlIGZvciB0aGUgcGxhdGZvcm0sIGtlZXAgdGhlIGNvcmUgbWVzc2FnZS4KLSAqKmhlYXZ5Kiog4oCUIGZ1bGwgcmVpbWFnaW5pbmc6IG5ldyBhbmdsZSwgaG9vaywgYW5kIGZvcm1hdCBuYXRpdmUgdG8gdGhlIHBsYXRmb3JtLgoKIyMjIEJhY2tlbmRzCgotIGAtLWJhY2tlbmQgbm9uZWAgKGRlZmF1bHQpOiB3cml0ZXMgYSByZWFkeS10by11c2UgcHJvbXB0IGZpbGUgKGAqLntwbGF0Zm9ybX1fe3N0eWxlfS5tZGApIHlvdSBjYW4gcGFzdGUgaW50byBhbnkgTExNLCBvciBleGVjdXRlIG1hbnVhbGx5LiBObyBBUEkga2V5IG5lZWRlZC4KLSBgLS1iYWNrZW5kIGRlZXBzZWVrYCAvIGBvcGVuYWlgOiBjYWxscyB0aGUgbW9kZWwgZGlyZWN0bHkgKHNldCBgREVFUFNFRUtfQVBJX0tFWWAgLyBgT1BFTkFJX0FQSV9LRVlgLCBvciBwYXNzIGAtLWFwaS1rZXlgKS4KLSBgLS1iYWNrZW5kIGxvY2FsYDogY2FsbHMgYW4gT3BlbkFJLWNvbXBhdGlibGUgZW5kcG9pbnQgKGUuZy4gT2xsYW1hKSB2aWEgYC0tYmFzZS11cmxgLgoKYGBgYmFzaAojIERpcmVjdCBjYWxsIHRvIERlZXBTZWVrCnB5dGhvbiBzY3JpcHRzL3Jld3JpdGUucHkgLi9vdXQvdmlkZW8udHh0IC0tcGxhdGZvcm0gZG91eWluIC0tc3R5bGUgaGVhdnkgXAogICAgLS1iYWNrZW5kIGRlZXBzZWVrIC0tYXBpLWtleSAkREVFUFNFRUtfQVBJX0tFWQpgYGAKCiMjIEFnZW50IC8gRnVuY3Rpb24tY2FsbGluZyB1c2FnZQoKVG8gbGV0IGFueSBPcGVuQUktY29tcGF0aWJsZSBtb2RlbCAoRGVlcFNlZWssIEdQVCwgQ29kZXgsIGV0Yy4pIGRyaXZlIHRoaXMgc2tpbGwsIHJlZ2lzdGVyIHRoZSB0aHJlZSBmdW5jdGlvbnMgZnJvbSBgcmVmZXJlbmNlcy90b29sX3NjaGVtYS5qc29uYDoKCi0gYHZzZV9mZXRjaF9tZWRpYWAg4oCUIGRvd25sb2FkIGZyb20gYSBVUkwKLSBgdnNlX3RyYW5zY3JpYmVgIOKAlCB0cmFuc2NyaWJlIGEgZmlsZQotIGB2c2VfcmV3cml0ZWAg4oCUIHJlcHVycG9zZSBhIHRyYW5zY3JpcHQKClRoZSBzY2hlbWEgaXMgc3RhbmRhcmQgYGZ1bmN0aW9uc2AvYHRvb2xzYCBmb3JtYXQ7IHRoZSBtb2RlbCBkZWNpZGVzIHdoZW4gdG8gY2FsbCB0aGVtLgoKIyMgRXhhbXBsZXMKCioqTGluayDihpIgWGlhb2hvbmdzaHUgbm90ZSoqCgpgYGBiYXNoCnB5dGhvbiBzY3JpcHRzL2ZldGNoX21lZGlhLnB5ICJodHRwczovL3YuZG91eWluLmNvbS94eHh4LyIgLS1hdWRpby1vbmx5IC1vIC4vZApweXRob24gc2NyaXB0cy90cmFuc2NyaWJlLnB5IC4vZC8qLm1wNCAtLW1vZGVsIHNtYWxsIC0tbGFuZ3VhZ2UgemggLW8gLi9vdXQKcHl0aG9uIHNjcmlwdHMvcmV3cml0ZS5weSAuL291dC8qLnR4dCAtLXBsYXRmb3JtIHhpYW9ob25nc2h1IC0tc3R5bGUgbWVkaXVtCmBgYAoKKipMb2NhbCBmaWxlIOKGkiBZb3VUdWJlIHNjcmlwdCAoaGVhdnksIEVuZ2xpc2ggU0VPKSoqCgpgYGBiYXNoCnB5dGhvbiBzY3JpcHRzL3RyYW5zY3JpYmUucHkgInRhbGsubXA0IiAtLW1vZGVsIGxhcmdlLXYzIC0tbGFuZ3VhZ2UgZW4gLW8gLi9vdXQKcHl0aG9uIHNjcmlwdHMvcmV3cml0ZS5weSAuL291dC90YWxrLnR4dCAtLXBsYXRmb3JtIHlvdXR1YmUgLS1zdHlsZSBoZWF2eQpgYGAKCiMjIFVzZSBDYXNlcwoKLSAqKkNvbnRlbnQgcmVwdXJwb3NpbmcqKiDigJQgdHVybiBvbmUgbG9uZyB2aWRlbyBpbnRvIGNsaXBzL3NjcmlwdHMgZm9yIDQgcGxhdGZvcm1zLgotICoqU3VidGl0bGVzKiog4oCUIGdlbmVyYXRlIGAuc3J0YCBmb3IgYW55IHZpZGVvLgotICoqTWVldGluZyAvIGludGVydmlldyBub3RlcyoqIOKAlCB0cmFuc2NyaWJlIGFuZCBzdW1tYXJpemUuCi0gKipDb21wZXRpdG9yIHRlYXJkb3duKiog4oCUIGV4dHJhY3QgYSByaXZhbCdzIHZpZGVvIHNjcmlwdCBhbmQgYWRhcHQgaXQuCi0gKipDb3Vyc2UgLyBwb2RjYXN0IGRpZ2VzdCoqIOKAlCB0cmFuc2NyaXB0IOKGkiBzdHJ1Y3R1cmVkIG5vdGVzICsgbWluZCBtYXAuCgojIyBSZXF1aXJlbWVudHMKCi0gUHl0aG9uIDMuMTArCi0gYGZmbXBlZ2AgKyBgZmZwcm9iZWAgb24gYFBBVEhgIChpbnN0YWxsIHN5c3RlbS13aWRlOyBub3QgdmlhIHBpcCkKLSBGaXJzdCBydW46IGBweXRob24gc2NyaXB0cy9zZXR1cF9lbnYucHlgIGluc3RhbGxzIGBmYXN0ZXItd2hpc3BlcmAsIGB5dC1kbHBgCi0gV2hpc3BlciBtb2RlbCBkb3dubG9hZGVkIG9uIGZpcnN0IHVzZSAoc2V0IGAtLWhmLW1pcnJvcmAgaW4gQ04pCgojIyBSZWZlcmVuY2VzCgotIGByZWZlcmVuY2VzL3Byb21wdHMuanNvbmAg4oCUIG1hY2hpbmUtcmVhZGFibGUgcHJvbXB0IGxpYnJhcnkgKDQgcGxhdGZvcm1zIMOXIDMgc3RyZW5ndGhzICsgbm90ZXMgKyBtaW5kbWFwKQotIGByZWZlcmVuY2VzL3Rvb2xfc2NoZW1hLmpzb25gIOKAlCBPcGVuQUktY29tcGF0aWJsZSBmdW5jdGlvbi1jYWxsaW5nIHNjaGVtYQotIGByZWZlcmVuY2VzL3Jld3JpdGVfcHJvbXB0cy5tZGAg4oCUIGh1bWFuLXJlYWRhYmxlIHJld3JpdGUgZ3VpZGUKCiMjIFJlbGF0ZWQgU2tpbGxzCgpUaGlzIHJlcG8gd2lsbCBjb2xsZWN0IG1vcmUgc2tpbGxzIG92ZXIgdGltZS4gVHJhY2sgdXBkYXRlcyBvciBvcGVuIGFuIGlzc3VlIHRvIHN1Z2dlc3Qgb25lLgoKIyMgRG9jdW1lbnRhdGlvbgoKLSBXaGlzcGVyIChPcGVuQUkpOiBodHRwczovL2dpdGh1Yi5jb20vb3BlbmFpL3doaXNwZXIKLSBmYXN0ZXItd2hpc3BlcjogaHR0cHM6Ly9naXRodWIuY29tL1NZU1RSQU4vZmFzdGVyLXdoaXNwZXIKLSB5dC1kbHA6IGh0dHBzOi8vZ2l0aHViLmNvbS95dC1kbHAveXQtZGxwCi0gUmVwbzogaHR0cHM6Ly9naXRodWIuY29tL1N5bHZhblJvZS9za2lsbHMK
+---
+name: video-script-extract
+description: "Extract transcript and repurpose video/audio into platform-ready scripts. Local, offline pipeline: download from links (Douyin/Bilibili/Xiaohongshu/YouTube/etc.) via yt-dlp, transcribe speech to text in Chinese/English with faster-whisper + ffmpeg, then rewrite into Xiaohongshu notes, Douyin scripts, Bilibili video outlines, or YouTube scripts (3 rewrite strengths each). Use for: 提取文案, 视频转写, 字幕生成, 短视频脚本, 小红书笔记, 口播稿, 二创, transcribe video, extract transcript, video script, subtitles, repurpose content, repurposing, content repurposing, speech to text, whisper transcription, douyin script, xiaohongshu, bilibili, youtube script."
+allowed-tools: Bash(python:*), Bash(pip:*), Bash(ffmpeg:*), Bash(ffprobe:*), Bash(yt-dlp:*)
+---
+
+# Video Script Extract
+
+Extract a video or audio file's transcript and repurpose it into ready-to-publish scripts for multiple platforms — entirely **offline / local**, no third-party upload.
+
+![video-script-extract](https://img.shields.io/badge/local-offline-2ea44f)
+
+## What it does
+
+1. **Fetch** — download video/audio from a URL (yt-dlp supports Douyin, Bilibili, Xiaohongshu, Kuaishou, Weibo, YouTube, and more).
+2. **Transcribe** — extract audio with `ffmpeg`, run `faster-whisper` locally to get text + `.srt` subtitles + segmented `.json`.
+3. **Structure** — turn the transcript into notes / a mind-map outline.
+4. **Repurpose** — rewrite into platform-native scripts: **Xiaohongshu**, **Douyin**, **Bilibili**, **YouTube**, each at 3 strengths (light / medium / heavy).
+
+All processing runs on the user's machine. The video never leaves the device.
+
+## Quick Start
+
+```bash
+cd tools/video-script-extract
+
+# 1. Install dependencies (ffmpeg must be installed system-wide first)
+python scripts/setup_env.py
+
+# 2. Transcribe a local file -> .txt / .srt / .json
+python scripts/transcribe.py "video.mp4" --model small --language zh --output-dir ./out
+
+# 3. Repurpose the transcript into a Xiaohongshu note (medium strength)
+python scripts/rewrite.py ./out/video.txt --platform xiaohongshu --style medium
+```
+
+## Features
+
+| Capability | How |
+|------------|-----|
+| Multi-platform link download | `scripts/fetch_media.py` (yt-dlp) |
+| Local speech-to-text (CN/EN) | `scripts/transcribe.py` (ffmpeg + faster-whisper) |
+| Notes & mind-map outline | prompts in `references/prompts.json` (`notes`, `mindmap`) |
+| 4-platform repurposing | `scripts/rewrite.py` + `references/prompts.json` |
+| Multi-LLM backend | `--backend deepseek / openai / local / none` |
+| Agent / function-calling | `references/tool_schema.json` |
+
+## Step 1 — Download from a link
+
+```bash
+python scripts/fetch_media.py "https://www.bilibili.com/video/BVxxxx" --audio-only -o ./downloads
+```
+
+If you already have a local file, skip this step.
+
+## Step 2 — Transcribe
+
+```bash
+python scripts/transcribe.py "video.mp4" \
+    --model small \          # tiny | small | medium | large-v3
+    --language zh \          # zh / en / auto-detect
+    --hf-mirror https://hf-mirror.com \
+    --output-dir ./out
+```
+
+Outputs in `./out`:
+
+| File | Contents |
+|------|----------|
+| `*.txt` | Plain transcript |
+| `*.srt` | Subtitles (editable in any editor) |
+| `*.json` | Segments with timestamps + language + confidence |
+
+`--model` trade-off: `small` is fast and accurate for clear CN speech; use `large-v3` for heavy accent, jargon, or noisy audio (slower, more RAM).
+
+## Step 3 — Repurpose / Rewrite
+
+```bash
+python scripts/rewrite.py ./out/video.txt \
+    --platform xiaohongshu \   # xiaohongshu | douyin | bilibili | youtube
+    --style medium \            # light | medium | heavy
+    --backend none              # none | deepseek | openai | local
+```
+
+### Platforms
+
+| `--platform` | Target | Deliverable |
+|--------------|--------|-------------|
+| `xiaohongshu` | 小红书 | Image-text note (标题/正文/标签) |
+| `douyin` | 抖音 | Short-video voiceover script (hook + beats + CTA) |
+| `bilibili` | 哔哩哔哩 | Mid-long video outline (分P/章节/文案) |
+| `youtube` | YouTube | Video script + English SEO (title/description/tags) |
+
+### Strengths
+
+- **light** — keep the original structure and wording, light polish only.
+- **medium** — restructure for the platform, keep the core message.
+- **heavy** — full reimagining: new angle, hook, and format native to the platform.
+
+### Backends
+
+- `--backend none` (default): writes a ready-to-use prompt file (`*.{platform}_{style}.md`) you can paste into any LLM, or execute manually. No API key needed.
+- `--backend deepseek` / `openai`: calls the model directly (set `DEEPSEEK_API_KEY` / `OPENAI_API_KEY`, or pass `--api-key`).
+- `--backend local`: calls an OpenAI-compatible endpoint (e.g. Ollama) via `--base-url`.
+
+```bash
+# Direct call to DeepSeek
+python scripts/rewrite.py ./out/video.txt --platform douyin --style heavy \
+    --backend deepseek --api-key $DEEPSEEK_API_KEY
+```
+
+## Agent / Function-calling usage
+
+To let any OpenAI-compatible model (DeepSeek, GPT, Codex, etc.) drive this skill, register the three functions from `references/tool_schema.json`:
+
+- `vse_fetch_media` — download from a URL
+- `vse_transcribe` — transcribe a file
+- `vse_rewrite` — repurpose a transcript
+
+The schema is standard `functions`/`tools` format; the model decides when to call them.
+
+## Examples
+
+**Link → Xiaohongshu note**
+
+```bash
+python scripts/fetch_media.py "https://v.douyin.com/xxxx/" --audio-only -o ./d
+python scripts/transcribe.py ./d/*.mp4 --model small --language zh -o ./out
+python scripts/rewrite.py ./out/*.txt --platform xiaohongshu --style medium
+```
+
+**Local file → YouTube script (heavy, English SEO)**
+
+```bash
+python scripts/transcribe.py "talk.mp4" --model large-v3 --language en -o ./out
+python scripts/rewrite.py ./out/talk.txt --platform youtube --style heavy
+```
+
+## Use Cases
+
+- **Content repurposing** — turn one long video into clips/scripts for 4 platforms.
+- **Subtitles** — generate `.srt` for any video.
+- **Meeting / interview notes** — transcribe and summarize.
+- **Competitor teardown** — extract a rival's video script and adapt it.
+- **Course / podcast digest** — transcript → structured notes + mind map.
+
+## Requirements
+
+- Python 3.10+
+- `ffmpeg` + `ffprobe` on `PATH` (install system-wide; not via pip)
+- First run: `python scripts/setup_env.py` installs `faster-whisper`, `yt-dlp`
+- Whisper model downloaded on first use (set `--hf-mirror` in CN)
+
+## References
+
+- `references/prompts.json` — machine-readable prompt library (4 platforms × 3 strengths + notes + mindmap)
+- `references/tool_schema.json` — OpenAI-compatible function-calling schema
+- `references/rewrite_prompts.md` — human-readable rewrite guide
+
+## Related Skills
+
+This repo will collect more skills over time. Track updates or open an issue to suggest one.
+
+## Documentation
+
+- Whisper (OpenAI): https://github.com/openai/whisper
+- faster-whisper: https://github.com/SYSTRAN/faster-whisper
+- yt-dlp: https://github.com/yt-dlp/yt-dlp
+- Repo: https://github.com/SylvanRoe/skills

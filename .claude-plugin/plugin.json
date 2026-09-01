@@ -1,1 +1,34 @@
-ewogICAgIm5hbWUiOiAia2stc2tpbGxzIiwKICAgICJkZXNjcmlwdGlvbiI6ICJrayAoU3lsdmFuUm9lKSDnmoToh6rnoJQgQUkgYWdlbnQgc2tpbGxzIOmbhuWQiO+8muinhumikeaWh+ahiOaPkOWPluS4juWkmuW5s+WPsOS6jOWIm++8iOWwj+e6ouS5pi/mipbpn7MvQuermS9Zb3VUdWJl77yJ77yM5pys5Zyw56a757q/6L+Q6KGM44CCIiwKICAgICJ2ZXJzaW9uIjogIjEuMC4wIiwKICAgICJhdXRob3IiOiB7CiAgICAgICAgIm5hbWUiOiAia2sgKFN5bHZhblJvZSkiLAogICAgICAgICJlbWFpbCI6ICJra0B3b3JrYnVkZHkubG9jYWwiCiAgICB9LAogICAgImhvbWVwYWdlIjogImh0dHBzOi8vZ2l0aHViLmNvbS9TeWx2YW5Sb2Uvc2tpbGxzIiwKICAgICJyZXBvc2l0b3J5IjogImh0dHBzOi8vZ2l0aHViLmNvbS9TeWx2YW5Sb2Uvc2tpbGxzIiwKICAgICJsaWNlbnNlIjogIk1JVCIsCiAgICAia2V5d29yZHMiOiBbCiAgICAgICAgInZpZGVvIiwKICAgICAgICAidHJhbnNjcmlwdCIsCiAgICAgICAgInRyYW5zY3JpcHRpb24iLAogICAgICAgICJzcGVlY2gtdG8tdGV4dCIsCiAgICAgICAgIndoaXNwZXIiLAogICAgICAgICJmZm1wZWciLAogICAgICAgICJ5dC1kbHAiLAogICAgICAgICJ4aWFvaG9uZ3NodSIsCiAgICAgICAgImRvdXlpbiIsCiAgICAgICAgImJpbGliaWxpIiwKICAgICAgICAieW91dHViZSIsCiAgICAgICAgInJlcHVycG9zZSIsCiAgICAgICAgImNvbnRlbnQtcmVwdXJwb3NpbmciLAogICAgICAgICJzY3JpcHQiLAogICAgICAgICJzdWJ0aXRsZXMiLAogICAgICAgICJhZ2VudCIsCiAgICAgICAgInNraWxsIgogICAgXSwKICAgICJza2lsbHMiOiBbCiAgICAgICAgIi4vdG9vbHMvdmlkZW8tc2NyaXB0LWV4dHJhY3QvU0tJTEwubWQiCiAgICBdCn0K
+{
+    "name": "kk-skills",
+    "description": "kk (SylvanRoe) 的自研 AI agent skills 集合：视频文案提取与多平台二创（小红书/抖音/B站/YouTube），本地离线运行。",
+    "version": "1.0.0",
+    "author": {
+        "name": "kk (SylvanRoe)",
+        "email": "kk@workbuddy.local"
+    },
+    "homepage": "https://github.com/SylvanRoe/skills",
+    "repository": "https://github.com/SylvanRoe/skills",
+    "license": "MIT",
+    "keywords": [
+        "video",
+        "transcript",
+        "transcription",
+        "speech-to-text",
+        "whisper",
+        "ffmpeg",
+        "yt-dlp",
+        "xiaohongshu",
+        "douyin",
+        "bilibili",
+        "youtube",
+        "repurpose",
+        "content-repurposing",
+        "script",
+        "subtitles",
+        "agent",
+        "skill"
+    ],
+    "skills": [
+        "./tools/video-script-extract/SKILL.md"
+    ]
+}

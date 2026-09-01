@@ -1,1 +1,13 @@
-ewogICIkc2NoZW1hIjogImh0dHBzOi8vc2tpbGxzLnNoL3NjaGVtYXMvc2tpbGxzLnNoLnNjaGVtYS5qc29uIiwKICAibm90R3JvdXBlZCI6ICJib3R0b20iLAogICJncm91cGluZ3MiOiBbCiAgICB7CiAgICAgICJ0aXRsZSI6ICJWaWRlbyAmIEF1ZGlvIiwKICAgICAgImRlc2NyaXB0aW9uIjogIuinhumikS/pn7PpopHlpITnkIbvvJrovazlhpnjgIHlrZfluZXjgIHlpJrlubPlj7DkuozliJvjgIIiLAogICAgICAic2tpbGxzIjogWwogICAgICAgICJ2aWRlby1zY3JpcHQtZXh0cmFjdCIKICAgICAgXQogICAgfQogIF0KfQo=
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "Video & Audio",
+      "description": "视频/音频处理：转写、字幕、多平台二创。",
+      "skills": [
+        "video-script-extract"
+      ]
+    }
+  ]
+}

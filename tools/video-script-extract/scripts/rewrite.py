@@ -1,1 +1,228 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKcmV3cml0ZS5weSDigJQg5paH5qGI5LqM5qyh5Yib5L2c77yI6YCa55So44CB5Y+v6ISx56a7IFdvcmtCdWRkeSDov5DooYzvvIkKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0K5oqKIHRyYW5zY3JpYmUucHkg5Lqn5Ye655qE5paH5qGI77yILnR4dCDmiJYgLmpzb27vvInmlLnlhpnmiJDmjIflrprlubPlj7DnmoTpo47moLzohJrmnKzjgIIKCuiuvuiuoeebruagh++8muiuqeOAjOS7u+aEjyBBSSAvIOS7u+aEj+eOr+Wig+OAjemDveiDveeUqOOAggogIC0g57qvIFB5dGhvbiDmoIflh4blupPvvIzml6DlvLrliLbnrKzkuInmlrnkvp3otZbvvJsKICAtIOaUr+aMgeWkmiBMTE0g5ZCO56uv77yIRGVlcFNlZWsgLyBPcGVuQUkgLyDmnKzlnLAgT3BlbkFJIOWFvOWuueacjeWKoSAvIOaXoOWQjuerr++8ie+8mwogIC0g5pegIEFQSSBrZXkg5pe277yILS1iYWNrZW5kIG5vbmXvvInlj6rovpPlh7rjgIznu4Too4Xlpb3nmoTmj5DnpLror43jgI3vvIzlj6/nm7TmjqXnspjnu5nku7vkvZXmqKHlnovmiJbkurrlt6XmiafooYzvvJsKICAtIOaPkOekuuivjeW6k+mbhuS4reWcqCByZWZlcmVuY2VzL3Byb21wdHMuanNvbu+8jOS+v+S6juWinuWIoOW5s+WPsOS4jumjjuagvOOAggoK5pSv5oyB5bmz5Y+w77yILS1wbGF0Zm9ybe+8ie+8mgogIHhpYW9ob25nc2h1ICDlsI/nuqLkuablm77mlofnrJTorrAKICBkb3V5aW4gICAgICAg5oqW6Z+z55+t6KeG6aKR6ISa5pysCiAgYmlsaWJpbGkgICAgIOWTlOWTqeWTlOWTqeinhumikeeovwogIHlvdXR1YmUgICAgICBZb3VUdWJlIOinhumikeaWueahiO+8iOWQq+iLseaWhyBTRU/vvIkKCuaUueWGmeW8uuW6pu+8iC0tc3R5bGXvvInvvJpsaWdodCjovbvluqYpIC8gbWVkaXVtKOS4reW6pu+8jOm7mOiupCkgLyBoZWF2eSjph43luqYpCgrnlKjms5XnpLrkvovvvJoKICAjIDEpIOaXoOWvhumSpe+8muWPquS6p+WHuuaPkOekuuivje+8iOS6pOe7meS7u+aEj+aooeWeiy/kurrlt6XvvIkKICBweXRob24gcmV3cml0ZS5weSDmlofmoYgudHh0IC0tcGxhdGZvcm0geGlhb2hvbmdzaHUgLS1zdHlsZSBtZWRpdW0KCiAgIyAyKSDnlKggRGVlcFNlZWsg55u05o6l55Sf5oiQCiAgcHl0aG9uIHJld3JpdGUucHkg5paH5qGILnR4dCAtLXBsYXRmb3JtIGRvdXlpbiAtLXN0eWxlIGhlYXZ5IFwKICAgICAgLS1iYWNrZW5kIGRlZXBzZWVrIC0tYXBpLWtleSBzay14eHh4CgogICMgMykg55So5pys5ZywIE9sbGFtYe+8iE9wZW5BSSDlhbzlrrnvvIkKICBweXRob24gcmV3cml0ZS5weSDmlofmoYguanNvbiAtLXBsYXRmb3JtIGJpbGliaWxpIC0tYmFja2VuZCBsb2NhbAoKICAjIDQpIOe7k+aehOWMlueslOiusCAvIOaAnee7tOWvvOWbvgogIHB5dGhvbiByZXdyaXRlLnB5IOaWh+ahiC50eHQgLS1tb2RlIG5vdGVzCiAgcHl0aG9uIHJld3JpdGUucHkg5paH5qGILnR4dCAtLW1vZGUgbWluZG1hcAoiIiIKCmltcG9ydCBhcmdwYXJzZQppbXBvcnQganNvbgppbXBvcnQgb3MKaW1wb3J0IHN5cwppbXBvcnQgdXJsbGliLmVycm9yCmltcG9ydCB1cmxsaWIucmVxdWVzdApmcm9tIHBhdGhsaWIgaW1wb3J0IFBhdGgKCiMg5ZCE5ZCO56uv55qE6buY6K6kIGJhc2VfdXJsIOS4juaooeWei++8iOWPr+eUqCAtLWJhc2UtdXJsIC8gLS1tb2RlbCDopobnm5bvvIkKQkFDS0VORFMgPSB7CiAgICAiZGVlcHNlZWsiOiB7ImJhc2VfdXJsIjogImh0dHBzOi8vYXBpLmRlZXBzZWVrLmNvbS92MSIsICJtb2RlbCI6ICJkZWVwc2Vlay1jaGF0IiwKICAgICAgICAgICAgICAgICAiZW52X2tleSI6ICJERUVQU0VFS19BUElfS0VZIn0sCiAgICAib3BlbmFpIjogICB7ImJhc2VfdXJsIjogImh0dHBzOi8vYXBpLm9wZW5haS5jb20vdjEiLCAibW9kZWwiOiAiZ3B0LTRvIiwKICAgICAgICAgICAgICAgICAiZW52X2tleSI6ICJPUEVOQUlfQVBJX0tFWSJ9LAogICAgImxvY2FsIjogICAgeyJiYXNlX3VybCI6ICJodHRwOi8vbG9jYWxob3N0OjExNDM0L3YxIiwgIm1vZGVsIjogImxsYW1hMyIsCiAgICAgICAgICAgICAgICAgImVudl9rZXkiOiBOb25lfSwgICMg5pys5Zyw5pyN5Yqh6YCa5bi45peg6ZyAIGtleQp9CgpQTEFURk9STVMgPSBbInhpYW9ob25nc2h1IiwgImRvdXlpbiIsICJiaWxpYmlsaSIsICJ5b3V0dWJlIl0KU1RZTEVTID0gWyJsaWdodCIsICJtZWRpdW0iLCAiaGVhdnkiXQoKCmRlZiBsb2FkX3Byb21wdHMocHJvbXB0c19wYXRoOiBQYXRoKSAtPiBkaWN0OgogICAgaWYgbm90IHByb21wdHNfcGF0aC5leGlzdHMoKToKICAgICAgICBzeXMuZXhpdChmIlvplJnor69dIOaJvuS4jeWIsOaPkOekuuivjeW6k++8mntwcm9tcHRzX3BhdGh9XG7or7fnoa7orqQgcmVmZXJlbmNlcy9wcm9tcHRzLmpzb24g5LiO5pys6ISa5pys5ZCM57qn44CCIikKICAgIHdpdGggb3Blbihwcm9tcHRzX3BhdGgsIGVuY29kaW5nPSJ1dGYtOCIpIGFzIGY6CiAgICAgICAgcmV0dXJuIGpzb24ubG9hZChmKQoKCmRlZiByZWFkX3RyYW5zY3JpcHQocGF0aDogUGF0aCkgLT4gc3RyOgogICAgIiIi6K+75Y+W6L2s5YaZ57uT5p6c77yaLmpzb24g5oq95Y+W5YiG5q615paH5pys77yMLnR4dCDnm7TmjqXor7vjgIIiIiIKICAgIHRleHQgPSBwYXRoLnJlYWRfdGV4dChlbmNvZGluZz0idXRmLTgiKQogICAgaWYgcGF0aC5zdWZmaXgubG93ZXIoKSA9PSAiLmpzb24iOgogICAgICAgIHRyeToKICAgICAgICAgICAgZGF0YSA9IGpzb24ubG9hZHModGV4dCkKICAgICAgICAgICAgc2VncyA9IGRhdGEuZ2V0KCJzZWdtZW50cyIpIG9yIFtdCiAgICAgICAgICAgIHBhcnRzID0gW3MuZ2V0KCJ0ZXh0IiwgIiIpLnN0cmlwKCkgZm9yIHMgaW4gc2VncyBpZiBpc2luc3RhbmNlKHMsIGRpY3QpXQogICAgICAgICAgICBqb2luZWQgPSAiXG4iLmpvaW4ocCBmb3IgcCBpbiBwYXJ0cyBpZiBwKQogICAgICAgICAgICBpZiBqb2luZWQ6CiAgICAgICAgICAgICAgICByZXR1cm4gam9pbmVkCiAgICAgICAgICAgICMg6YCA5YyW77ya55u05o6l55So6aG25bGCIHRleHQg5a2X5q6177yI6Iul5pyJ77yJCiAgICAgICAgICAgIGlmIGlzaW5zdGFuY2UoZGF0YS5nZXQoInRleHQiKSwgc3RyKToKICAgICAgICAgICAgICAgIHJldHVybiBkYXRhWyJ0ZXh0Il0KICAgICAgICBleGNlcHQganNvbi5KU09ORGVjb2RlRXJyb3I6CiAgICAgICAgICAgIHBhc3MKICAgICAgICAjIEpTT04g6Kej5p6Q5aSx6LSl5YiZ6YCA5Zue5Y6f5aeL5paH5pysCiAgICAgICAgcmV0dXJuIHRleHQKICAgIHJldHVybiB0ZXh0CgoKZGVmIGJ1aWxkX21lc3NhZ2VzKHByb21wdHM6IGRpY3QsIG1vZGU6IHN0ciwgcGxhdGZvcm06IHN0ciwgc3R5bGU6IHN0ciwKICAgICAgICAgICAgICAgICAgIHRyYW5zY3JpcHQ6IHN0ciwgY3VzdG9tOiBzdHIpOgogICAgaWYgbW9kZSBpbiAoIm5vdGVzIiwgIm1pbmRtYXAiKToKICAgICAgICBibG9jayA9IHByb21wdHNbbW9kZV0KICAgIGVsc2U6CiAgICAgICAgaWYgcGxhdGZvcm0gbm90IGluIHByb21wdHNbInBsYXRmb3JtcyJdOgogICAgICAgICAgICBzeXMuZXhpdChmIlvplJnor69dIOacquefpeW5s+WPsCAne3BsYXRmb3JtfSfvvIzlj6/pgInvvJp7JywgJy5qb2luKFBMQVRGT1JNUyl9IikKICAgICAgICBpZiBzdHlsZSBub3QgaW4gcHJvbXB0c1sicGxhdGZvcm1zIl1bcGxhdGZvcm1dOgogICAgICAgICAgICBzeXMuZXhpdChmIlvplJnor69dIOacquefpeW8uuW6piAne3N0eWxlfSfvvIzlj6/pgInvvJp7JywgJy5qb2luKFNUWUxFUyl9IikKICAgICAgICBibG9jayA9IHByb21wdHNbInBsYXRmb3JtcyJdW3BsYXRmb3JtXVtzdHlsZV0KCiAgICBzeXN0ZW0gPSBibG9jay5nZXQoInN5c3RlbSIsICIiKQogICAgdXNlciA9IGJsb2NrLmdldCgidXNlciIsICIiKS5yZXBsYWNlKCJ7e+aWh+ahiH19IiwgdHJhbnNjcmlwdCkKICAgIHVzZXIgPSB1c2VyLnJlcGxhY2UoInt76Ieq5a6a5LmJ5oyH5LukfX0iLCBjdXN0b20gb3IgIiIpCiAgICAjIOa4heaOieaui+eVmeeahOepuuWNoOS9jeihjAogICAgdXNlciA9IHVzZXIucmVwbGFjZSgiXG5cblxuIiwgIlxuXG4iKS5zdHJpcCgpCiAgICByZXR1cm4gWwogICAgICAgIHsicm9sZSI6ICJzeXN0ZW0iLCAiY29udGVudCI6IHN5c3RlbX0sCiAgICAgICAgeyJyb2xlIjogInVzZXIiLCAiY29udGVudCI6IHVzZXJ9LAogICAgXQoKCmRlZiBjYWxsX2xsbShtZXNzYWdlczogbGlzdCwgYmFja2VuZDogc3RyLCBhcGlfa2V5OiBzdHIsIG1vZGVsOiBzdHIsCiAgICAgICAgICAgICBiYXNlX3VybDogc3RyLCB0aW1lb3V0OiBpbnQgPSAxODApIC0+IHN0cjoKICAgIGNmZyA9IEJBQ0tFTkRTLmdldChiYWNrZW5kLCB7fSkKICAgIGJhc2VfdXJsID0gYmFzZV91cmwgb3IgY2ZnLmdldCgiYmFzZV91cmwiKQogICAgbW9kZWwgPSBtb2RlbCBvciBjZmcuZ2V0KCJtb2RlbCIpCiAgICBpZiBub3QgYmFzZV91cmwgb3Igbm90IG1vZGVsOgogICAgICAgIHN5cy5leGl0KGYiW+mUmeivr10g5ZCO56uvICd7YmFja2VuZH0nIOe8uuWwkSBiYXNlX3VybCDmiJYgbW9kZWzvvIzor7fnlKggLS1iYXNlLXVybCAvIC0tbW9kZWwg5oyH5a6a44CCIikKCiAgICBib2R5ID0ganNvbi5kdW1wcyh7CiAgICAgICAgIm1vZGVsIjogbW9kZWwsCiAgICAgICAgIm1lc3NhZ2VzIjogbWVzc2FnZXMsCiAgICAgICAgInRlbXBlcmF0dXJlIjogMC44LAogICAgfSkuZW5jb2RlKCJ1dGYtOCIpCgogICAgaGVhZGVycyA9IHsiQ29udGVudC1UeXBlIjogImFwcGxpY2F0aW9uL2pzb24ifQogICAgaWYgYXBpX2tleToKICAgICAgICBoZWFkZXJzWyJBdXRob3JpemF0aW9uIl0gPSBmIkJlYXJlciB7YXBpX2tleX0iCgogICAgdXJsID0gYmFzZV91cmwucnN0cmlwKCIvIikgKyAiL2NoYXQvY29tcGxldGlvbnMiCiAgICByZXEgPSB1cmxsaWIucmVxdWVzdC5SZXF1ZXN0KHVybCwgZGF0YT1ib2R5LCBoZWFkZXJzPWhlYWRlcnMsIG1ldGhvZD0iUE9TVCIpCiAgICB0cnk6CiAgICAgICAgd2l0aCB1cmxsaWIucmVxdWVzdC51cmxvcGVuKHJlcSwgdGltZW91dD10aW1lb3V0KSBhcyByZXNwOgogICAgICAgICAgICBkYXRhID0ganNvbi5sb2FkcyhyZXNwLnJlYWQoKS5kZWNvZGUoInV0Zi04IikpCiAgICAgICAgcmV0dXJuIGRhdGFbImNob2ljZXMiXVswXVsibWVzc2FnZSJdWyJjb250ZW50Il0KICAgIGV4Y2VwdCB1cmxsaWIuZXJyb3IuSFRUUEVycm9yIGFzIGU6CiAgICAgICAgZGV0YWlsID0gZS5yZWFkKCkuZGVjb2RlKCJ1dGYtOCIsICJpZ25vcmUiKVs6MTAwMF0KICAgICAgICBzeXMuZXhpdChmIlvplJnor69dIExMTSDmjqXlj6Pov5Tlm54ge2UuY29kZX3vvJp7ZGV0YWlsfSIpCiAgICBleGNlcHQgdXJsbGliLmVycm9yLlVSTEVycm9yIGFzIGU6CiAgICAgICAgc3lzLmV4aXQoZiJb6ZSZ6K+vXSDml6Dms5Xov57mjqUgTExNIOaOpeWPo++8iHt1cmx977yJ77yae2UucmVhc29ufSIpCgoKZGVmIHJlc29sdmVfYXBpX2tleShiYWNrZW5kOiBzdHIsIGNsaV9rZXk6IHN0cikgLT4gc3RyOgogICAgaWYgY2xpX2tleToKICAgICAgICByZXR1cm4gY2xpX2tleQogICAgZW52X25hbWUgPSBCQUNLRU5EUy5nZXQoYmFja2VuZCwge30pLmdldCgiZW52X2tleSIpCiAgICBpZiBlbnZfbmFtZSBhbmQgb3MuZW52aXJvbi5nZXQoZW52X25hbWUpOgogICAgICAgIHJldHVybiBvcy5lbnZpcm9uW2Vudl9uYW1lXQogICAgIyDpgJrnlKjlhZzlupUKICAgIHJldHVybiBvcy5lbnZpcm9uLmdldCgiTExNX0FQSV9LRVkiLCAiIikKCgpkZWYgbWFpbigpOgogICAgaGVyZSA9IFBhdGgoX19maWxlX18pLnJlc29sdmUoKS5wYXJlbnQKICAgIHByb21wdHNfcGF0aCA9IGhlcmUucGFyZW50IC8gInJlZmVyZW5jZXMiIC8gInByb21wdHMuanNvbiIKCiAgICBwID0gYXJncGFyc2UuQXJndW1lbnRQYXJzZXIoCiAgICAgICAgZGVzY3JpcHRpb249IuinhumikS/pn7PpopHmlofmoYjkuozmrKHliJvkvZzvvIjlpJrlubPlj7DjgIHlpJrlkI7nq6/jgIHlj6/ohLHnprsgV29ya0J1ZGR5IOS9v+eUqO+8iSIsCiAgICApCiAgICBwLmFkZF9hcmd1bWVudCgidHJhbnNjcmlwdCIsIGhlbHA9Iui9rOWGmee7k+aenOaWh+S7tu+8mi50eHQg5oiWIC5qc29u77yI5p2l6IeqIHRyYW5zY3JpYmUucHnvvIkiKQogICAgcC5hZGRfYXJndW1lbnQoIi0tbW9kZSIsIGNob2ljZXM9WyJyZXdyaXRlIiwgIm5vdGVzIiwgIm1pbmRtYXAiXSwgZGVmYXVsdD0icmV3cml0ZSIsCiAgICAgICAgICAgICAgICAgICBoZWxwPSJyZXdyaXRlPeW5s+WPsOS6jOWIm++8m25vdGVzPee7k+aehOWMlueslOiusO+8m21pbmRtYXA95oCd57u05a+85Zu+77yI6buY6K6kIHJld3JpdGXvvIkiKQogICAgcC5hZGRfYXJndW1lbnQoIi0tcGxhdGZvcm0iLCBkZWZhdWx0PSJ4aWFvaG9uZ3NodSIsCiAgICAgICAgICAgICAgICAgICBoZWxwPWYi5LqM5Yib5bmz5Y+w77yM5Y+v6YCJ77yaeycsICcuam9pbihQTEFURk9STVMpfe+8iOS7hSAtLW1vZGUgcmV3cml0ZSDnlJ/mlYjvvIkiKQogICAgcC5hZGRfYXJndW1lbnQoIi0tc3R5bGUiLCBjaG9pY2VzPVNUWUxFUywgZGVmYXVsdD0ibWVkaXVtIiwKICAgICAgICAgICAgICAgICAgIGhlbHA9IuaUueWGmeW8uuW6piBsaWdodC9tZWRpdW0vaGVhdnnvvIjpu5jorqQgbWVkaXVt77yJIikKICAgIHAuYWRkX2FyZ3VtZW50KCItLWJhY2tlbmQiLCBkZWZhdWx0PSJub25lIiwKICAgICAgICAgICAgICAgICAgIGNob2ljZXM9WyJub25lIiwgImRlZXBzZWVrIiwgIm9wZW5haSIsICJsb2NhbCJdLAogICAgICAgICAgICAgICAgICAgaGVscD0iTExNIOWQjuerr++8m25vbmU95Y+q6L6T5Ye65o+Q56S66K+N5LiN6LCD55So5qih5Z6L77yI6buY6K6kIG5vbmXvvIkiKQogICAgcC5hZGRfYXJndW1lbnQoIi0tYXBpLWtleSIsIGRlZmF1bHQ9Tm9uZSwgaGVscD0iQVBJIGtlee+8iOS5n+WPr+eUqOeOr+Wig+WPmOmHj++8iSIpCiAgICBwLmFkZF9hcmd1bWVudCgiLS1tb2RlbCIsIGRlZmF1bHQ9Tm9uZSwgaGVscD0i5qih5Z6L5ZCN77yI6KaG55uW5ZCO56uv6buY6K6k77yJIikKICAgIHAuYWRkX2FyZ3VtZW50KCItLWJhc2UtdXJsIiwgZGVmYXVsdD1Ob25lLCBoZWxwPSJPcGVuQUkg5YW85a655o6l5Y+j55qEIGJhc2VfdXJsIikKICAgIHAuYWRkX2FyZ3VtZW50KCItLWN1c3RvbSIsIGRlZmF1bHQ9IiIsIGhlbHA9Iui/veWKoOe7meaooeWei+eahOiHquWumuS5ieaMh+S7pCIpCiAgICBwLmFkZF9hcmd1bWVudCgiLS1vdXRwdXQiLCAiLW8iLCBkZWZhdWx0PU5vbmUsIGhlbHA9Iui+k+WHuuaWh+S7tui3r+W+hO+8iOm7mOiupOWQjOebruW9leiHquWKqOWRveWQje+8iSIpCiAgICBwLmFkZF9hcmd1bWVudCgiLS1saXN0LXBsYXRmb3JtcyIsIGFjdGlvbj0ic3RvcmVfdHJ1ZSIsIGhlbHA9IuWIl+WHuuaUr+aMgeeahOW5s+WPsOW5tumAgOWHuiIpCiAgICBhcmdzID0gcC5wYXJzZV9hcmdzKCkKCiAgICBpZiBhcmdzLmxpc3RfcGxhdGZvcm1zOgogICAgICAgIHByb21wdHMgPSBsb2FkX3Byb21wdHMocHJvbXB0c19wYXRoKQogICAgICAgIHByaW50KCLmlK/mjIHlubPlj7DvvJoiKQogICAgICAgIGZvciBrLCB2IGluIHByb21wdHNbInBsYXRmb3JtcyJdLml0ZW1zKCk6CiAgICAgICAgICAgIHByaW50KGYiICB7azoxNHN9IHt2LmdldCgnbmFtZScsICcnKX0iKQogICAgICAgIHJldHVybgoKICAgIHByb21wdHMgPSBsb2FkX3Byb21wdHMocHJvbXB0c19wYXRoKQogICAgdHJhbnNjcmlwdF9wYXRoID0gUGF0aChhcmdzLnRyYW5zY3JpcHQpCiAgICBpZiBub3QgdHJhbnNjcmlwdF9wYXRoLmV4aXN0cygpOgogICAgICAgIHN5cy5leGl0KGYiW+mUmeivr10g5om+5LiN5Yiw6L2s5YaZ5paH5Lu277yae3RyYW5zY3JpcHRfcGF0aH0iKQogICAgdHJhbnNjcmlwdCA9IHJlYWRfdHJhbnNjcmlwdCh0cmFuc2NyaXB0X3BhdGgpCgogICAgbWVzc2FnZXMgPSBidWlsZF9tZXNzYWdlcygKICAgICAgICBwcm9tcHRzLCBhcmdzLm1vZGUsIGFyZ3MucGxhdGZvcm0sIGFyZ3Muc3R5bGUsIHRyYW5zY3JpcHQsIGFyZ3MuY3VzdG9tCiAgICApCgogICAgIyDlkb3lkI3vvJo8c3RlbT4uPOW5s+WPsOaIlm1vZGU+XzxzdHlsZT4ubWQKICAgIGlmIGFyZ3MubW9kZSA9PSAicmV3cml0ZSI6CiAgICAgICAgdGFnID0gZiJ7YXJncy5wbGF0Zm9ybX1fe2FyZ3Muc3R5bGV9IgogICAgZWxzZToKICAgICAgICB0YWcgPSBhcmdzLm1vZGUKICAgIHN0ZW0gPSB0cmFuc2NyaXB0X3BhdGguc3RlbQogICAgb3V0X3BhdGggPSBQYXRoKGFyZ3Mub3V0cHV0KSBpZiBhcmdzLm91dHB1dCBlbHNlIHRyYW5zY3JpcHRfcGF0aC5wYXJlbnQgLyBmIntzdGVtfS57dGFnfS5tZCIKCiAgICBpZiBhcmdzLmJhY2tlbmQgPT0gIm5vbmUiOgogICAgICAgICMg5peg5a+G6ZKl77ya6L6T5Ye657uE6KOF5aW955qE5o+Q56S66K+N77yM5Y+v5Lqk57uZ5Lu75oSP5qih5Z6LL+S6uuW3pQogICAgICAgIHByb21wdF9kb2MgPSAoCiAgICAgICAgICAgICIjIOS6jOWIm+aPkOekuuivje+8iOeUsSByZXdyaXRlLnB5IOeUn+aIkO+8jOWPr+ebtOaOpeeymOe7meS7u+aEj+Wkp+aooeWei+aIluS6uuW3peaJp+ihjO+8iVxuXG4iCiAgICAgICAgICAgIGYiPiDmqKHlvI/vvJp7YXJncy5tb2RlfSDvvZwg5bmz5Y+w77yae2FyZ3MucGxhdGZvcm19IO+9nCDlvLrluqbvvJp7YXJncy5zdHlsZX1cblxuIgogICAgICAgICAgICAiIyMgU3lzdGVtXG5cbiIgKyBtZXNzYWdlc1swXVsiY29udGVudCJdICsgIlxuXG4iCiAgICAgICAgICAgICIjIyBVc2VyXG5cbiIgKyBtZXNzYWdlc1sxXVsiY29udGVudCJdICsgIlxuIgogICAgICAgICkKICAgICAgICBvdXRfcGF0aC53cml0ZV90ZXh0KHByb21wdF9kb2MsIGVuY29kaW5nPSJ1dGYtOCIpCiAgICAgICAgcHJpbnQoZiLinIUg5bey55Sf5oiQ5o+Q56S66K+N5paH5Lu277yI5pyq6LCD55So5qih5Z6L77yJ77yae291dF9wYXRofSIpCiAgICAgICAgcHJpbnQoIiAgIOWwhuivpeaWh+S7tuWGheWuueeymOe7meS7u+aEj+Wkp+aooeWei++8jOaIluaJi+WKqOaJp+ihjOWNs+WPr+WujOaIkOS6jOWIm+OAgiIpCiAgICAgICAgcHJpbnQoIiAgIOS5n+WPr+WKoCAtLWJhY2tlbmQgZGVlcHNlZWsvb3BlbmFpL2xvY2FsIOebtOaOpeiuqeacrOiEmuacrOiwg+eUqOaooeWei+eUn+aIkOe7k+aenOOAgiIpCiAgICAgICAgcmV0dXJuCgogICAgYXBpX2tleSA9IHJlc29sdmVfYXBpX2tleShhcmdzLmJhY2tlbmQsIGFyZ3MuYXBpX2tleSkKICAgIGlmIG5vdCBhcGlfa2V5IGFuZCBhcmdzLmJhY2tlbmQgIT0gImxvY2FsIjoKICAgICAgICBzeXMuZXhpdChmIlvplJnor69dIOWQjuerryAne2FyZ3MuYmFja2VuZH0nIOmcgOimgSBBUEkga2V577ya55SoIC0tYXBpLWtleSDmiJborr7nva7njq/looPlj5jph48gIgogICAgICAgICAgICAgICAgIGYie0JBQ0tFTkRTLmdldChhcmdzLmJhY2tlbmQsIHt9KS5nZXQoJ2Vudl9rZXknLCAnTExNX0FQSV9LRVknKX3jgIIiKQoKICAgIHByaW50KGYiWzEvMl0g6LCD55SoIHthcmdzLmJhY2tlbmR9IOeUn+aIkOS6jOWIm++8iOW5s+WPsD17YXJncy5wbGF0Zm9ybX0sIOW8uuW6pj17YXJncy5zdHlsZX3vvIkuLi4iKQogICAgcmVzdWx0ID0gY2FsbF9sbG0obWVzc2FnZXMsIGFyZ3MuYmFja2VuZCwgYXBpX2tleSwgYXJncy5tb2RlbCBvciAiIiwKICAgICAgICAgICAgICAgICAgICAgIGFyZ3MuYmFzZV91cmwgb3IgIiIsIHRpbWVvdXQ9MTgwKQogICAgb3V0X3BhdGgud3JpdGVfdGV4dChyZXN1bHQsIGVuY29kaW5nPSJ1dGYtOCIpCiAgICBwcmludChmIlsyLzJdIOS6jOWIm+WujOaIkO+8jOW3suWGmeWHuu+8mntvdXRfcGF0aH0iKQoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBtYWluKCkK
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+rewrite.py — 文案二次创作（通用、可脱离 WorkBuddy 运行）
+========================================================
+把 transcribe.py 产出的文案（.txt 或 .json）改写成指定平台的风格脚本。
+
+设计目标：让「任意 AI / 任意环境」都能用。
+  - 纯 Python 标准库，无强制第三方依赖；
+  - 支持多 LLM 后端（DeepSeek / OpenAI / 本地 OpenAI 兼容服务 / 无后端）；
+  - 无 API key 时（--backend none）只输出「组装好的提示词」，可直接粘给任何模型或人工执行；
+  - 提示词库集中在 references/prompts.json，便于增删平台与风格。
+
+支持平台（--platform）：
+  xiaohongshu  小红书图文笔记
+  douyin       抖音短视频脚本
+  bilibili     哔哩哔哩视频稿
+  youtube      YouTube 视频方案（含英文 SEO）
+
+改写强度（--style）：light(轻度) / medium(中度，默认) / heavy(重度)
+
+用法示例：
+  # 1) 无密钥：只产出提示词（交给任意模型/人工）
+  python rewrite.py 文案.txt --platform xiaohongshu --style medium
+
+  # 2) 用 DeepSeek 直接生成
+  python rewrite.py 文案.txt --platform douyin --style heavy \
+      --backend deepseek --api-key sk-xxxx
+
+  # 3) 用本地 Ollama（OpenAI 兼容）
+  python rewrite.py 文案.json --platform bilibili --backend local
+
+  # 4) 结构化笔记 / 思维导图
+  python rewrite.py 文案.txt --mode notes
+  python rewrite.py 文案.txt --mode mindmap
+"""
+
+import argparse
+import json
+import os
+import sys
+import urllib.error
+import urllib.request
+from pathlib import Path
+
+# 各后端的默认 base_url 与模型（可用 --base-url / --model 覆盖）
+BACKENDS = {
+    "deepseek": {"base_url": "https://api.deepseek.com/v1", "model": "deepseek-chat",
+                 "env_key": "DEEPSEEK_API_KEY"},
+    "openai":   {"base_url": "https://api.openai.com/v1", "model": "gpt-4o",
+                 "env_key": "OPENAI_API_KEY"},
+    "local":    {"base_url": "http://localhost:11434/v1", "model": "llama3",
+                 "env_key": None},  # 本地服务通常无需 key
+}
+
+PLATFORMS = ["xiaohongshu", "douyin", "bilibili", "youtube"]
+STYLES = ["light", "medium", "heavy"]
+
+
+def load_prompts(prompts_path: Path) -> dict:
+    if not prompts_path.exists():
+        sys.exit(f"[错误] 找不到提示词库：{prompts_path}\n请确认 references/prompts.json 与本脚本同级。")
+    with open(prompts_path, encoding="utf-8") as f:
+        return json.load(f)
+
+
+def read_transcript(path: Path) -> str:
+    """读取转写结果：.json 抽取分段文本，.txt 直接读。"""
+    text = path.read_text(encoding="utf-8")
+    if path.suffix.lower() == ".json":
+        try:
+            data = json.loads(text)
+            segs = data.get("segments") or []
+            parts = [s.get("text", "").strip() for s in segs if isinstance(s, dict)]
+            joined = "\n".join(p for p in parts if p)
+            if joined:
+                return joined
+            # 退化：直接用顶层 text 字段（若有）
+            if isinstance(data.get("text"), str):
+                return data["text"]
+        except json.JSONDecodeError:
+            pass
+        # JSON 解析失败则退回原始文本
+        return text
+    return text
+
+
+def build_messages(prompts: dict, mode: str, platform: str, style: str,
+                   transcript: str, custom: str):
+    if mode in ("notes", "mindmap"):
+        block = prompts[mode]
+    else:
+        if platform not in prompts["platforms"]:
+            sys.exit(f"[错误] 未知平台 '{platform}'，可选：{', '.join(PLATFORMS)}")
+        if style not in prompts["platforms"][platform]:
+            sys.exit(f"[错误] 未知强度 '{style}'，可选：{', '.join(STYLES)}")
+        block = prompts["platforms"][platform][style]
+
+    system = block.get("system", "")
+    user = block.get("user", "").replace("{{文案}}", transcript)
+    user = user.replace("{{自定义指令}}", custom or "")
+    # 清掉残留的空占位行
+    user = user.replace("\n\n\n", "\n\n").strip()
+    return [
+        {"role": "system", "content": system},
+        {"role": "user", "content": user},
+    ]
+
+
+def call_llm(messages: list, backend: str, api_key: str, model: str,
+             base_url: str, timeout: int = 180) -> str:
+    cfg = BACKENDS.get(backend, {})
+    base_url = base_url or cfg.get("base_url")
+    model = model or cfg.get("model")
+    if not base_url or not model:
+        sys.exit(f"[错误] 后端 '{backend}' 缺少 base_url 或 model，请用 --base-url / --model 指定。")
+
+    body = json.dumps({
+        "model": model,
+        "messages": messages,
+        "temperature": 0.8,
+    }).encode("utf-8")
+
+    headers = {"Content-Type": "application/json"}
+    if api_key:
+        headers["Authorization"] = f"Bearer {api_key}"
+
+    url = base_url.rstrip("/") + "/chat/completions"
+    req = urllib.request.Request(url, data=body, headers=headers, method="POST")
+    try:
+        with urllib.request.urlopen(req, timeout=timeout) as resp:
+            data = json.loads(resp.read().decode("utf-8"))
+        return data["choices"][0]["message"]["content"]
+    except urllib.error.HTTPError as e:
+        detail = e.read().decode("utf-8", "ignore")[:1000]
+        sys.exit(f"[错误] LLM 接口返回 {e.code}：{detail}")
+    except urllib.error.URLError as e:
+        sys.exit(f"[错误] 无法连接 LLM 接口（{url}）：{e.reason}")
+
+
+def resolve_api_key(backend: str, cli_key: str) -> str:
+    if cli_key:
+        return cli_key
+    env_name = BACKENDS.get(backend, {}).get("env_key")
+    if env_name and os.environ.get(env_name):
+        return os.environ[env_name]
+    # 通用兜底
+    return os.environ.get("LLM_API_KEY", "")
+
+
+def main():
+    here = Path(__file__).resolve().parent
+    prompts_path = here.parent / "references" / "prompts.json"
+
+    p = argparse.ArgumentParser(
+        description="视频/音频文案二次创作（多平台、多后端、可脱离 WorkBuddy 使用）",
+    )
+    p.add_argument("transcript", help="转写结果文件：.txt 或 .json（来自 transcribe.py）")
+    p.add_argument("--mode", choices=["rewrite", "notes", "mindmap"], default="rewrite",
+                   help="rewrite=平台二创；notes=结构化笔记；mindmap=思维导图（默认 rewrite）")
+    p.add_argument("--platform", default="xiaohongshu",
+                   help=f"二创平台，可选：{', '.join(PLATFORMS)}（仅 --mode rewrite 生效）")
+    p.add_argument("--style", choices=STYLES, default="medium",
+                   help="改写强度 light/medium/heavy（默认 medium）")
+    p.add_argument("--backend", default="none",
+                   choices=["none", "deepseek", "openai", "local"],
+                   help="LLM 后端；none=只输出提示词不调用模型（默认 none）")
+    p.add_argument("--api-key", default=None, help="API key（也可用环境变量）")
+    p.add_argument("--model", default=None, help="模型名（覆盖后端默认）")
+    p.add_argument("--base-url", default=None, help="OpenAI 兼容接口的 base_url")
+    p.add_argument("--custom", default="", help="追加给模型的自定义指令")
+    p.add_argument("--output", "-o", default=None, help="输出文件路径（默认同目录自动命名）")
+    p.add_argument("--list-platforms", action="store_true", help="列出支持的平台并退出")
+    args = p.parse_args()
+
+    if args.list_platforms:
+        prompts = load_prompts(prompts_path)
+        print("支持平台：")
+        for k, v in prompts["platforms"].items():
+            print(f"  {k:14s} {v.get('name', '')}")
+        return
+
+    prompts = load_prompts(prompts_path)
+    transcript_path = Path(args.transcript)
+    if not transcript_path.exists():
+        sys.exit(f"[错误] 找不到转写文件：{transcript_path}")
+    transcript = read_transcript(transcript_path)
+
+    messages = build_messages(
+        prompts, args.mode, args.platform, args.style, transcript, args.custom
+    )
+
+    # 命名：<stem>.<平台或mode>_<style>.md
+    if args.mode == "rewrite":
+        tag = f"{args.platform}_{args.style}"
+    else:
+        tag = args.mode
+    stem = transcript_path.stem
+    out_path = Path(args.output) if args.output else transcript_path.parent / f"{stem}.{tag}.md"
+
+    if args.backend == "none":
+        # 无密钥：输出组装好的提示词，可交给任意模型/人工
+        prompt_doc = (
+            "# 二创提示词（由 rewrite.py 生成，可直接粘给任意大模型或人工执行）\n\n"
+            f"> 模式：{args.mode} ｜ 平台：{args.platform} ｜ 强度：{args.style}\n\n"
+            "## System\n\n" + messages[0]["content"] + "\n\n"
+            "## User\n\n" + messages[1]["content"] + "\n"
+        )
+        out_path.write_text(prompt_doc, encoding="utf-8")
+        print(f"✅ 已生成提示词文件（未调用模型）：{out_path}")
+        print("   将该文件内容粘给任意大模型，或手动执行即可完成二创。")
+        print("   也可加 --backend deepseek/openai/local 直接让本脚本调用模型生成结果。")
+        return
+
+    api_key = resolve_api_key(args.backend, args.api_key)
+    if not api_key and args.backend != "local":
+        sys.exit(f"[错误] 后端 '{args.backend}' 需要 API key：用 --api-key 或设置环境变量 "
+                 f"{BACKENDS.get(args.backend, {}).get('env_key', 'LLM_API_KEY')}。")
+
+    print(f"[1/2] 调用 {args.backend} 生成二创（平台={args.platform}, 强度={args.style}）...")
+    result = call_llm(messages, args.backend, api_key, args.model or "",
+                      args.base_url or "", timeout=180)
+    out_path.write_text(result, encoding="utf-8")
+    print(f"[2/2] 二创完成，已写出：{out_path}")
+
+
+if __name__ == "__main__":
+    main()

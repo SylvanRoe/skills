@@ -1,1 +1,98 @@
-IyBray1za2lsbHMKCmtr77yIU3lsdmFuUm9l77yJ6Ieq56CU55qEICoqQUkgYWdlbnQgc2tpbGxzIOmbhuWQiCoq77yM6YeH55SoIFthbnRocm9waWMvc2tpbGxzXShodHRwczovL2dpdGh1Yi5jb20vYW50aHJvcGljcy9za2lsbHMpIOagvOW8j++8jOWPr+WuieijheS4uiBDbGF1ZGUgQ29kZSDmj5Lku7bmiJbnlKggYG5weCBza2lsbHNgIOWKoOi9ve+8jOS5n+iDveiiq+S7u+aEj+aUr+aMgeWHveaVsOiwg+eUqOeahCBMTE3vvIhEZWVwU2VlayAvIE9wZW5BSSAvIENvZGV4IOetie+8ieiwg+eUqOOAggoK5omA5pyJIHNraWxsIOWdhyoq5pys5Zyw56a757q/Kirov5DooYzvvIzmlbDmja7kuI3kuIrkvKDnrKzkuInmlrnjgIIKCiFbTGljZW5zZTogTUlUXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0xpY2Vuc2UtTUlULXllbGxvdy5zdmcpCgojIyDlt7LmlLblvZUgU2tpbGxzCgp8IFNraWxsIHwg6K+05piOIHwKfC0tLS0tLS18LS0tLS0tfAp8IFtgdmlkZW8tc2NyaXB0LWV4dHJhY3RgXSguL3Rvb2xzL3ZpZGVvLXNjcmlwdC1leHRyYWN0KSB8IOinhumikS/pn7PpopHmlofmoYjmj5Dlj5bkuI7lpJrlubPlj7DkuozliJvvvJrpk77mjqXkuIvovb3vvIh5dC1kbHDvvInihpIg5pys5ZywIFdoaXNwZXIg5Lit5paH6L2s5YaZ77yIZmFzdGVyLXdoaXNwZXIgKyBmZm1wZWfvvInihpIg56yU6K6wL+aAnee7tOWvvOWbviDihpIgNCDlubPlj7DkuozliJvvvIjlsI/nuqLkuaYgLyDmipbpn7MgLyDlk5Tlk6nlk5Tlk6kgLyBZb3VUdWJl77yM5ZCEIDMg5qGj5by65bqm77yJIHwKCuabtOWkmiBza2lsbCDkvJrpmYbnu63lvIDmupDliLDmnKzku5PlupPjgIIKCiMjIOWuieijheaWueW8jwoKIyMjIDEuIOS9nOS4uiBDbGF1ZGUgQ29kZSDmj5Lku7YKCmBgYGJhc2gKL3BsdWdpbiBtYXJrZXRwbGFjZSBhZGQgU3lsdmFuUm9lL3NraWxscwovcGx1Z2luIGluc3RhbGwga2stc2tpbGxzCmBgYAoK5a6J6KOF5ZCO77yMc2tpbGwg5LulIGAva2stc2tpbGxzOnZpZGVvLXNjcmlwdC1leHRyYWN0YCDnrYnlvaLlvI/lj6/nlKjjgIIKCiMjIyAyLiDkvZzkuLogU2tpbGxz77yIYG5weCBza2lsbHNg77yJCgpgYGBiYXNoCiMg5YWo6YOoCm5weCBza2lsbHMgYWRkIFN5bHZhblJvZS9za2lsbHMKCiMg5Y2V5LiqCm5weCBza2lsbHMgYWRkIFN5bHZhblJvZS9za2lsbHNAdmlkZW8tc2NyaXB0LWV4dHJhY3QKYGBgCgojIyMgMy4g5omL5Yqo5aSN5Yi2CgpgYGBiYXNoCmdpdCBjbG9uZSBodHRwczovL2dpdGh1Yi5jb20vU3lsdmFuUm9lL3NraWxscy5naXQKY3AgLXIgc2tpbGxzL3Rvb2xzLyogfi8uY2xhdWRlL3NraWxscy8KIyDmiJbmlL7lhaXkvaDnmoQgYWdlbnQgc2tpbGxzIOebruW9lQpgYGAKCiMjIOW/q+mAn+S9v+eUqAoKYGBgYmFzaApjZCB0b29scy92aWRlby1zY3JpcHQtZXh0cmFjdAoKIyDlronoo4Xkvp3otZbvvIhmZm1wZWcg6ZyA57O757uf5YWI6KGM5a6J6KOF77yJCnB5dGhvbiBzY3JpcHRzL3NldHVwX2Vudi5weQoKIyDovazlhpnmnKzlnLDop4bpopEKcHl0aG9uIHNjcmlwdHMvdHJhbnNjcmliZS5weSB2aWRlby5tcDQgLS1tb2RlbCBzbWFsbCAtLWxhbmd1YWdlIHpoIC1vIC4vb3V0CgojIOS6jOWIm+aIkOWwj+e6ouS5pueslOiusO+8iOS4reW6puaUueWGme+8iQpweXRob24gc2NyaXB0cy9yZXdyaXRlLnB5IC4vb3V0L3ZpZGVvLnR4dCAtLXBsYXRmb3JtIHhpYW9ob25nc2h1IC0tc3R5bGUgbWVkaXVtCmBgYAoKIyMg5aSaIExMTSDlkI7nq68KCmByZXdyaXRlLnB5YCDmlK/mjIHlpJrlkI7nq6/vvIzml6DpnIDplIHlrprmn5DlrrbmqKHlnovvvJoKCmBgYGJhc2gKIyDkuI3osIPnlKjmqKHlnovvvIzlj6rnlJ/miJDlj6/nm7TmjqXnspjotLTnu5nku7vmhI8gTExNIOeahOaPkOekuuivjeaWh+S7tgpweXRob24gc2NyaXB0cy9yZXdyaXRlLnB5IHZpZGVvLnR4dCAtLXBsYXRmb3JtIGRvdXlpbiAtLXN0eWxlIGhlYXZ5IC0tYmFja2VuZCBub25lCgojIOebtOaOpeiwg+eUqCBEZWVwU2VlawpweXRob24gc2NyaXB0cy9yZXdyaXRlLnB5IHZpZGVvLnR4dCAtLXBsYXRmb3JtIGRvdXlpbiAtLXN0eWxlIGhlYXZ5IFwKICAgIC0tYmFja2VuZCBkZWVwc2VlayAtLWFwaS1rZXkgJERFRVBTRUVLX0FQSV9LRVkKCiMg5pys5Zyw5qih5Z6L77yIT3BlbkFJIOWFvOWuue+8jOWmgiBPbGxhbWHvvIkKcHl0aG9uIHNjcmlwdHMvcmV3cml0ZS5weSB2aWRlby50eHQgLS1wbGF0Zm9ybSB5b3V0dWJlIC0tc3R5bGUgbWVkaXVtIFwKICAgIC0tYmFja2VuZCBsb2NhbCAtLWJhc2UtdXJsIGh0dHA6Ly9sb2NhbGhvc3Q6MTE0MzQvdjEKYGBgCgojIyBBZ2VudCAvIOWHveaVsOiwg+eUqAoKYHRvb2xzL3ZpZGVvLXNjcmlwdC1leHRyYWN0L3JlZmVyZW5jZXMvdG9vbF9zY2hlbWEuanNvbmAg5o+Q5L6b5LqGIE9wZW5BSSDlhbzlrrnnmoQgZnVuY3Rpb24tY2FsbGluZyBzY2hlbWHvvIhgdnNlX2ZldGNoX21lZGlhYCAvIGB2c2VfdHJhbnNjcmliZWAgLyBgdnNlX3Jld3JpdGVg77yJ77yM5Lu75oSP5pSv5oyB5Ye95pWw6LCD55So55qE5qih5Z6L6YO96IO955u05o6l5oqK5a6D5b2T5bel5YW36LCD55So44CCCgojIyDku5PlupPnu5PmnoQKCmBgYApza2lsbHMvCuKUnOKUgOKUgCAuY2xhdWRlLXBsdWdpbi9wbHVnaW4uanNvbiAgICMgQ2xhdWRlIENvZGUg5o+S5Lu25rOo5YaMCuKUnOKUgOKUgCBza2lsbHMuc2guanNvbiAgICAgICAgICAgICAgICMgc2tpbGxzLnNoIOWIhue7hOWFg+aVsOaNrgrilJzilIDilIAgUkVBRE1FLm1kCuKUlOKUgOKUgCB0b29scy8KICAgIOKUlOKUgOKUgCB2aWRlby1zY3JpcHQtZXh0cmFjdC8KICAgICAgICDilJzilIDilIAgU0tJTEwubWQKICAgICAgICDilJzilIDilIAgc2NyaXB0cy8gICAgICAgICAgICAgIyB0cmFuc2NyaWJlIC8gZmV0Y2hfbWVkaWEgLyByZXdyaXRlIC8gc2V0dXBfZW52CiAgICAgICAg4pSU4pSA4pSAIHJlZmVyZW5jZXMvICAgICAgICAgICMgcHJvbXB0cy5qc29uIC8gdG9vbF9zY2hlbWEuanNvbiAvIHJld3JpdGVfcHJvbXB0cy5tZApgYGAKCiMjIExpY2Vuc2UKCuacrOS7k+W6k+m7mOiupCAqKk1JVCoq44CC5ZCEIHNraWxsIOebruW9leWGheWmguWQq+eLrOeriyBMSUNFTlNFIOS7peWFtuS4uuWHhuOAggo=
+# kk-skills
+
+kk（SylvanRoe）自研的 **AI agent skills 集合**，采用 [anthropic/skills](https://github.com/anthropics/skills) 格式，可安装为 Claude Code 插件或用 `npx skills` 加载，也能被任意支持函数调用的 LLM（DeepSeek / OpenAI / Codex 等）调用。
+
+所有 skill 均**本地离线**运行，数据不上传第三方。
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+## 已收录 Skills
+
+| Skill | 说明 |
+|-------|------|
+| [`video-script-extract`](./tools/video-script-extract) | 视频/音频文案提取与多平台二创：链接下载（yt-dlp）→ 本地 Whisper 中文转写（faster-whisper + ffmpeg）→ 笔记/思维导图 → 4 平台二创（小红书 / 抖音 / 哔哩哔哩 / YouTube，各 3 档强度） |
+
+更多 skill 会陆续开源到本仓库。
+
+## 安装方式
+
+### 1. 作为 Claude Code 插件
+
+```bash
+/plugin marketplace add SylvanRoe/skills
+/plugin install kk-skills
+```
+
+安装后，skill 以 `/kk-skills:video-script-extract` 等形式可用。
+
+### 2. 作为 Skills（`npx skills`）
+
+```bash
+# 全部
+npx skills add SylvanRoe/skills
+
+# 单个
+npx skills add SylvanRoe/skills@video-script-extract
+```
+
+### 3. 手动复制
+
+```bash
+git clone https://github.com/SylvanRoe/skills.git
+cp -r skills/tools/* ~/.claude/skills/
+# 或放入你的 agent skills 目录
+```
+
+## 快速使用
+
+```bash
+cd tools/video-script-extract
+
+# 安装依赖（ffmpeg 需系统先行安装）
+python scripts/setup_env.py
+
+# 转写本地视频
+python scripts/transcribe.py video.mp4 --model small --language zh -o ./out
+
+# 二创成小红书笔记（中度改写）
+python scripts/rewrite.py ./out/video.txt --platform xiaohongshu --style medium
+```
+
+## 多 LLM 后端
+
+`rewrite.py` 支持多后端，无需锁定某家模型：
+
+```bash
+# 不调用模型，只生成可直接粘贴给任意 LLM 的提示词文件
+python scripts/rewrite.py video.txt --platform douyin --style heavy --backend none
+
+# 直接调用 DeepSeek
+python scripts/rewrite.py video.txt --platform douyin --style heavy \
+    --backend deepseek --api-key $DEEPSEEK_API_KEY
+
+# 本地模型（OpenAI 兼容，如 Ollama）
+python scripts/rewrite.py video.txt --platform youtube --style medium \
+    --backend local --base-url http://localhost:11434/v1
+```
+
+## Agent / 函数调用
+
+`tools/video-script-extract/references/tool_schema.json` 提供了 OpenAI 兼容的 function-calling schema（`vse_fetch_media` / `vse_transcribe` / `vse_rewrite`），任意支持函数调用的模型都能直接把它当工具调用。
+
+## 仓库结构
+
+```
+skills/
+├── .claude-plugin/plugin.json   # Claude Code 插件注册
+├── skills.sh.json               # skills.sh 分组元数据
+├── README.md
+└── tools/
+    └── video-script-extract/
+        ├── SKILL.md
+        ├── scripts/             # transcribe / fetch_media / rewrite / setup_env
+        └── references/          # prompts.json / tool_schema.json / rewrite_prompts.md
+```
+
+## License
+
+本仓库默认 **MIT**。各 skill 目录内如含独立 LICENSE 以其为准。

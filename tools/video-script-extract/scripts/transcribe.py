@@ -1,1 +1,189 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKdHJhbnNjcmliZS5weSDigJQg6KeG6aKRL+mfs+mikeaWh+ahiOaPkOWPlu+8iOi9rOWGme+8ieaguOW/g+iEmuacrAo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CuaKiuS7u+aEj+inhumikeaIlumfs+mikeaWh+S7tui9rOWGmeS4uuaWh+acrO+8jOi+k+WHuuS4ieenjeaIkOaenO+8mgogIDEuIDzlkI3lrZc+LnR4dCAgIOe6r+aWh+ahiO+8iOmAkOauteaNouihjO+8jOS+v+S6jumYheivu+S4juWkjeWItu+8iQogIDIuIDzlkI3lrZc+LnNydCAgIOW4puaXtumXtOaIs+Wtl+W5le+8iOWPr+ebtOaOpeWvvOWFpeWJqui+kei9r+S7tiAvIOeUqOS9nOWkluaMguWtl+W5le+8iQogIDMuIDzlkI3lrZc+Lmpzb24gIOWujOaVtOWIhuaute+8iOWQq+i1t+atouaXtumXtOOAgeivreiogOOAgee9ruS/oeW6pu+8jOS+m+WQjue7ree7k+aehOWMluWkhOeQhu+8iQoK5L6d6LWW77yaCiAgLSBmZm1wZWfvvIjpnIDlnKggUEFUSCDkuK3vvIxXaW5kb3dzIOS4i+iLpeacquijheWPryBgd2luZ2V0IGluc3RhbGwgR3lhbi5GRm1wZWdg77yJCiAgLSBmYXN0ZXItd2hpc3Blcu+8iGBwaXAgaW5zdGFsbCBmYXN0ZXItd2hpc3BlcmDvvIkK6aaW5qyh6L+Q6KGM5Lya6Ieq5Yqo5LuOIEh1Z2dpbmcgRmFjZSDkuIvovb3mqKHlnovvvJvlm73lhoXnvZHnu5zlj6/liqAgLS1oZi1taXJyb3Ig6LWw6ZWc5YOP44CCCgrnlKjms5XnpLrkvovvvJoKICBweXRob24gdHJhbnNjcmliZS5weSDop4bpopEubXA0CiAgcHl0aG9uIHRyYW5zY3JpYmUucHkg6Z+z6aKRLm00YSAtLW1vZGVsIHNtYWxsIC0tbGFuZ3VhZ2UgemggLS1vdXRwdXQtZGlyIC4vb3V0CiAgcHl0aG9uIHRyYW5zY3JpYmUucHkg6KeG6aKRLm1wNCAtLW1vZGVsIGxhcmdlLXYzIC0taGYtbWlycm9yIGh0dHBzOi8vaGYtbWlycm9yLmNvbQoiIiIKCmltcG9ydCBhcmdwYXJzZQppbXBvcnQganNvbgppbXBvcnQgb3MKaW1wb3J0IHN1YnByb2Nlc3MKaW1wb3J0IHN5cwppbXBvcnQgdGVtcGZpbGUKZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCgoKZGVmIHBhcnNlX2FyZ3MoKToKICAgIHAgPSBhcmdwYXJzZS5Bcmd1bWVudFBhcnNlcigKICAgICAgICBkZXNjcmlwdGlvbj0i6KeG6aKRL+mfs+mikei9rOWGme+8muaPkOWPlumfs+mikeW5tueUqCBmYXN0ZXItd2hpc3BlciDnlJ/miJDmlofmoYgv5a2X5bmVL+WIhuautSBKU09OIiwKICAgICkKICAgIHAuYWRkX2FyZ3VtZW50KCJpbnB1dCIsIGhlbHA9IuinhumikeaIlumfs+mikeaWh+S7tui3r+W+hCIpCiAgICBwLmFkZF9hcmd1bWVudCgiLS1tb2RlbCIsIGRlZmF1bHQ9InNtYWxsIiwKICAgICAgICAgICAgICAgICAgIGhlbHA9IndoaXNwZXIg5qih5Z6L5qGj5L2N77yadGlueS9iYXNlL3NtYWxsL21lZGl1bS9sYXJnZS12Mi9sYXJnZS12M++8iOm7mOiupCBzbWFsbO+8iSIpCiAgICBwLmFkZF9hcmd1bWVudCgiLS1sYW5ndWFnZSIsIGRlZmF1bHQ9Tm9uZSwKICAgICAgICAgICAgICAgICAgIGhlbHA9IuivreiogOS7o+egge+8iOWmgiB6aC9lbi9qYe+8ie+8jOm7mOiupOiHquWKqOajgOa1iyIpCiAgICBwLmFkZF9hcmd1bWVudCgiLS1vdXRwdXQtZGlyIiwgIi1vIiwgZGVmYXVsdD1Ob25lLAogICAgICAgICAgICAgICAgICAgaGVscD0i6L6T5Ye655uu5b2V77yI6buY6K6k5LiO6L6T5YWl5ZCM55uu5b2V77yJIikKICAgIHAuYWRkX2FyZ3VtZW50KCItLWRldmljZSIsIGRlZmF1bHQ9ImF1dG8iLAogICAgICAgICAgICAgICAgICAgaGVscD0i5o6o55CG6K6+5aSHIGF1dG8vY3B1L2N1ZGHvvIjpu5jorqQgYXV0b++8iSIpCiAgICBwLmFkZF9hcmd1bWVudCgiLS1jb21wdXRlLXR5cGUiLCBkZWZhdWx0PSJhdXRvIiwKICAgICAgICAgICAgICAgICAgIGhlbHA9Iuiuoeeul+eyvuW6piBhdXRvL2Zsb2F0MTYvaW50OO+8iOm7mOiupCBhdXRv77yJIikKICAgIHAuYWRkX2FyZ3VtZW50KCItLWJlYW0tc2l6ZSIsIHR5cGU9aW50LCBkZWZhdWx0PTUsCiAgICAgICAgICAgICAgICAgICBoZWxwPSJiZWFtIHNlYXJjaCDlrr3luqbvvIjpu5jorqQgNe+8jOi2iuWkp+i2iuaFoui2iueos++8iSIpCiAgICBwLmFkZF9hcmd1bWVudCgiLS1oZi1taXJyb3IiLCBkZWZhdWx0PU5vbmUsCiAgICAgICAgICAgICAgICAgICBoZWxwPSJIdWdnaW5nIEZhY2Ug6ZWc5YOP5Zyw5Z2A77yM5aaCIGh0dHBzOi8vaGYtbWlycm9yLmNvbe+8iOWbveWGheWKoOmAn+aooeWei+S4i+i9ve+8iSIpCiAgICBwLmFkZF9hcmd1bWVudCgiLS1rZWVwLXdhdiIsIGFjdGlvbj0ic3RvcmVfdHJ1ZSIsCiAgICAgICAgICAgICAgICAgICBoZWxwPSLkv53nlZnkuK3pl7Tmir3lj5bnmoQgd2F2IOmfs+mikeaWh+S7tiIpCiAgICByZXR1cm4gcC5wYXJzZV9hcmdzKCkKCgpkZWYgZm10X3RzKHNlY29uZHM6IGZsb2F0KSAtPiBzdHI6CiAgICAiIiLnp5IgLT4gU1JUIOaXtumXtOaIsyBISDpNTTpTUyxtbW0iIiIKICAgIG1zID0gaW50KHJvdW5kKChzZWNvbmRzIC0gaW50KHNlY29uZHMpKSAqIDEwMDApKQogICAgcyA9IGludChzZWNvbmRzKQogICAgaCwgcyA9IGRpdm1vZChzLCAzNjAwKQogICAgbSwgcyA9IGRpdm1vZChzLCA2MCkKICAgIHJldHVybiBmIntoOjAyZH06e206MDJkfTp7czowMmR9LHttczowM2R9IgoKCmRlZiBleHRyYWN0X2F1ZGlvKGlucHV0X3BhdGg6IHN0ciwgd2F2X3BhdGg6IHN0cikgLT4gTm9uZToKICAgICIiIueUqCBmZm1wZWcg5oq95Y+WIDE2a0h6IOWNleWjsOmBkyB3YXbvvIh3aGlzcGVyIOacgOeos+eahOi+k+WFpeagvOW8j++8iSIiIgogICAgY21kID0gWwogICAgICAgICJmZm1wZWciLCAiLXkiLCAiLWkiLCBpbnB1dF9wYXRoLAogICAgICAgICItdm4iLCAiLWFjIiwgIjEiLCAiLWFyIiwgIjE2MDAwIiwgIi1jOmEiLCAicGNtX3MxNmxlIiwKICAgICAgICB3YXZfcGF0aCwKICAgIF0KICAgIHByb2MgPSBzdWJwcm9jZXNzLnJ1bihjbWQsIGNhcHR1cmVfb3V0cHV0PVRydWUsIHRleHQ9VHJ1ZSkKICAgIGlmIHByb2MucmV0dXJuY29kZSAhPSAwOgogICAgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcigKICAgICAgICAgICAgImZmbXBlZyDmir3lj5bpn7PpopHlpLHotKXjgILor7fnoa7orqTlt7Llronoo4UgZmZtcGVnIOS4lOWcqCBQQVRIIOS4reOAglxuIiArIHByb2Muc3RkZXJyWy0yMDAwOl0KICAgICAgICApCgoKZGVmIGJ1aWxkX3NydChzZWdtZW50cykgLT4gc3RyOgogICAgbGluZXMgPSBbXQogICAgZm9yIGksIHNlZyBpbiBlbnVtZXJhdGUoc2VnbWVudHMsIDEpOgogICAgICAgIGxpbmVzLmFwcGVuZChzdHIoaSkpCiAgICAgICAgbGluZXMuYXBwZW5kKGYie2ZtdF90cyhzZWcuc3RhcnQpfSAtLT4ge2ZtdF90cyhzZWcuZW5kKX0iKQogICAgICAgIGxpbmVzLmFwcGVuZChzZWcudGV4dC5zdHJpcCgpKQogICAgICAgIGxpbmVzLmFwcGVuZCgiIikKICAgIHJldHVybiAiXG4iLmpvaW4obGluZXMpCgoKZGVmIG1haW4oKToKICAgIGFyZ3MgPSBwYXJzZV9hcmdzKCkKCiAgICAjIOWcqOWvvOWFpSBmYXN0ZXJfd2hpc3BlciDkuYvliY3orr7nva7njq/looPlj5jph4/vvIznoa7kv53mqKHlnovog73mraPluLjkuIvovb0KICAgICMgSEZfSFVCX0RJU0FCTEVfWEVU77ya56aB55SoIEh1Z2dpbmcgRmFjZSDnmoQgWGV0IOWQjuerr++8iOWbveWGhS/ml6DpibTmnYPml7YgWGV0IOeahCBDQVMg5pyN5Yqh5Zmo5bi46L+U5ZueIDQwMe+8jOWvvOiHtOS4i+i9veWksei0pe+8iQogICAgb3MuZW52aXJvbi5zZXRkZWZhdWx0KCJIRl9IVUJfRElTQUJMRV9YRVQiLCAiMSIpCiAgICBpZiBhcmdzLmhmX21pcnJvcjoKICAgICAgICBvcy5lbnZpcm9uLnNldGRlZmF1bHQoIkhGX0VORFBPSU5UIiwgYXJncy5oZl9taXJyb3IpCgogICAgaW5wdXRfcGF0aCA9IFBhdGgoYXJncy5pbnB1dCkucmVzb2x2ZSgpCiAgICBpZiBub3QgaW5wdXRfcGF0aC5leGlzdHMoKToKICAgICAgICBzeXMuZXhpdChmIlvplJnor69dIOaJvuS4jeWIsOaWh+S7tu+8mntpbnB1dF9wYXRofSIpCgogICAgdHJ5OgogICAgICAgIGZyb20gZmFzdGVyX3doaXNwZXIgaW1wb3J0IFdoaXNwZXJNb2RlbAogICAgZXhjZXB0IEltcG9ydEVycm9yOgogICAgICAgIHN5cy5leGl0KAogICAgICAgICAgICAiW+mUmeivr10g5pyq5a6J6KOFIGZhc3Rlci13aGlzcGVy44CC6K+35YWI6L+Q6KGM77yaXG4iCiAgICAgICAgICAgICIgIHBpcCBpbnN0YWxsIGZhc3Rlci13aGlzcGVyXG4iCiAgICAgICAgICAgICIgIOaIlui/kOihjOacrCBza2lsbCDnmoQgc2NyaXB0cy9zZXR1cF9lbnYucHkg5LiA6ZSu5a6J6KOF44CCIgogICAgICAgICkKCiAgICBvdXRfZGlyID0gUGF0aChhcmdzLm91dHB1dF9kaXIpLnJlc29sdmUoKSBpZiBhcmdzLm91dHB1dF9kaXIgZWxzZSBpbnB1dF9wYXRoLnBhcmVudAogICAgb3V0X2Rpci5ta2RpcihwYXJlbnRzPVRydWUsIGV4aXN0X29rPVRydWUpCiAgICBzdGVtID0gaW5wdXRfcGF0aC5zdGVtCgogICAgIyAxKSDmir3lj5bpn7PpopEKICAgIHByaW50KGYiWzEvM10g5oq95Y+W6Z+z6aKR77yae2lucHV0X3BhdGgubmFtZX0iLCBmbHVzaD1UcnVlKQogICAgdG1wX2RpciA9IHRlbXBmaWxlLm1rZHRlbXAocHJlZml4PSJ2c2VfIikKICAgIHdhdl9wYXRoID0gb3MucGF0aC5qb2luKHRtcF9kaXIsICJhdWRpby53YXYiKQogICAgZXh0cmFjdF9hdWRpbyhzdHIoaW5wdXRfcGF0aCksIHdhdl9wYXRoKQoKICAgICMgMikg5Yqg6L295qih5Z6L5bm26L2s5YaZCiAgICBwcmludChmIlsyLzNdIOWKoOi9veaooeWeiyAne2FyZ3MubW9kZWx9JyDlubbovazlhpnvvIjpppbmrKHkvJrkuIvovb3mqKHlnovvvIzor7fogJDlv4PnrYnlvoXvvIkuLi4iLCBmbHVzaD1UcnVlKQogICAgbW9kZWwgPSBXaGlzcGVyTW9kZWwoYXJncy5tb2RlbCwgZGV2aWNlPWFyZ3MuZGV2aWNlLCBjb21wdXRlX3R5cGU9YXJncy5jb21wdXRlX3R5cGUpCiAgICBzZWdtZW50cywgaW5mbyA9IG1vZGVsLnRyYW5zY3JpYmUoCiAgICAgICAgd2F2X3BhdGgsCiAgICAgICAgbGFuZ3VhZ2U9YXJncy5sYW5ndWFnZSwKICAgICAgICBiZWFtX3NpemU9YXJncy5iZWFtX3NpemUsCiAgICAgICAgdmFkX2ZpbHRlcj1UcnVlLAogICAgKQogICAgc2VnX2xpc3QgPSBsaXN0KHNlZ21lbnRzKQoKICAgICMgMykg5YaZ57uT5p6cCiAgICBwcmludChmIlszLzNdIOWGmeWHuue7k+aenOWIsCB7b3V0X2Rpcn0iLCBmbHVzaD1UcnVlKQogICAgZGV0ZWN0ZWRfbGFuZyA9IGdldGF0dHIoaW5mbywgImxhbmd1YWdlIiwgYXJncy5sYW5ndWFnZSBvciAiPyIpCiAgICBsYW5nX3Byb2IgPSBnZXRhdHRyKGluZm8sICJsYW5ndWFnZV9wcm9iYWJpbGl0eSIsIE5vbmUpCgogICAgIyDnuq/mlofmoYgKICAgIHR4dF9wYXRoID0gb3V0X2RpciAvIGYie3N0ZW19LnR4dCIKICAgIHR4dF9wYXRoLndyaXRlX3RleHQoCiAgICAgICAgIlxuIi5qb2luKHMudGV4dC5zdHJpcCgpIGZvciBzIGluIHNlZ19saXN0IGlmIHMudGV4dC5zdHJpcCgpKSwKICAgICAgICBlbmNvZGluZz0idXRmLTgiLAogICAgKQoKICAgICMg5a2X5bmVCiAgICBzcnRfcGF0aCA9IG91dF9kaXIgLyBmIntzdGVtfS5zcnQiCiAgICBzcnRfcGF0aC53cml0ZV90ZXh0KGJ1aWxkX3NydChzZWdfbGlzdCksIGVuY29kaW5nPSJ1dGYtOCIpCgogICAgIyDlrozmlbTliIbmrrUgSlNPTgogICAganNvbl9wYXRoID0gb3V0X2RpciAvIGYie3N0ZW19Lmpzb24iCiAgICBqc29uX2RhdGEgPSB7CiAgICAgICAgInNvdXJjZSI6IHN0cihpbnB1dF9wYXRoKSwKICAgICAgICAibW9kZWwiOiBhcmdzLm1vZGVsLAogICAgICAgICJsYW5ndWFnZSI6IGRldGVjdGVkX2xhbmcsCiAgICAgICAgImxhbmd1YWdlX3Byb2JhYmlsaXR5IjogbGFuZ19wcm9iLAogICAgICAgICJkdXJhdGlvbiI6IGdldGF0dHIoaW5mbywgImR1cmF0aW9uIiwgTm9uZSksCiAgICAgICAgInNlZ21lbnRzIjogWwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAiaWQiOiBzLmlkLAogICAgICAgICAgICAgICAgInN0YXJ0Ijogcm91bmQocy5zdGFydCwgMyksCiAgICAgICAgICAgICAgICAiZW5kIjogcm91bmQocy5lbmQsIDMpLAogICAgICAgICAgICAgICAgInRleHQiOiBzLnRleHQuc3RyaXAoKSwKICAgICAgICAgICAgICAgICJhdmdfbG9ncHJvYiI6IHJvdW5kKHMuYXZnX2xvZ3Byb2IsIDQpIGlmIHMuYXZnX2xvZ3Byb2IgaXMgbm90IE5vbmUgZWxzZSBOb25lLAogICAgICAgICAgICAgICAgIm5vX3NwZWVjaF9wcm9iIjogcm91bmQocy5ub19zcGVlY2hfcHJvYiwgNCkgaWYgcy5ub19zcGVlY2hfcHJvYiBpcyBub3QgTm9uZSBlbHNlIE5vbmUsCiAgICAgICAgICAgIH0KICAgICAgICAgICAgZm9yIHMgaW4gc2VnX2xpc3QKICAgICAgICBdLAogICAgfQogICAganNvbl9wYXRoLndyaXRlX3RleHQoanNvbi5kdW1wcyhqc29uX2RhdGEsIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTIpLCBlbmNvZGluZz0idXRmLTgiKQoKICAgICMg5riF55CG5Li05pe25paH5Lu2CiAgICBpZiBhcmdzLmtlZXBfd2F2OgogICAgICAgIGltcG9ydCBzaHV0aWwKICAgICAgICBrZWVwID0gb3V0X2RpciAvIGYie3N0ZW19LndhdiIKICAgICAgICBzaHV0aWwubW92ZSh3YXZfcGF0aCwgc3RyKGtlZXApKQogICAgICAgIHByaW50KGYiICDlt7Lkv53nlZnpn7PpopHvvJp7a2VlcH0iKQogICAgZWxzZToKICAgICAgICBpbXBvcnQgc2h1dGlsCiAgICAgICAgc2h1dGlsLnJtdHJlZSh0bXBfZGlyLCBpZ25vcmVfZXJyb3JzPVRydWUpCgogICAgd29yZF9jb3VudCA9IHN1bShsZW4ocy50ZXh0KSBmb3IgcyBpbiBzZWdfbGlzdCkKICAgIHByaW50KCJcbuKchSDovazlhpnlrozmiJDvvJoiKQogICAgcHJpbnQoZiIgIOivreiogO+8mntkZXRlY3RlZF9sYW5nfSIgKyAoZiLvvIjnva7kv6HluqYge2xhbmdfcHJvYjouMCV977yJIiBpZiBsYW5nX3Byb2IgZWxzZSAiIikpCiAgICBwcmludChmIiAg5q616JC95pWw77yae2xlbihzZWdfbGlzdCl977yM5a2X56ym5pWw77ya57qmIHt3b3JkX2NvdW50fSIpCiAgICBwcmludChmIiAg57qv5paH5qGI77yae3R4dF9wYXRofSIpCiAgICBwcmludChmIiAg5a2X5bmVICDvvJp7c3J0X3BhdGh9IikKICAgIHByaW50KGYiICDliIbmrrUgIO+8mntqc29uX3BhdGh9IikKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgbWFpbigpCg==
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+transcribe.py — 视频/音频文案提取（转写）核心脚本
+====================================================
+把任意视频或音频文件转写为文本，输出三种成果：
+  1. <名字>.txt   纯文案（逐段换行，便于阅读与复制）
+  2. <名字>.srt   带时间戳字幕（可直接导入剪辑软件 / 用作外挂字幕）
+  3. <名字>.json  完整分段（含起止时间、语言、置信度，供后续结构化处理）
+
+依赖：
+  - ffmpeg（需在 PATH 中，Windows 下若未装可 `winget install Gyan.FFmpeg`）
+  - faster-whisper（`pip install faster-whisper`）
+首次运行会自动从 Hugging Face 下载模型；国内网络可加 --hf-mirror 走镜像。
+
+用法示例：
+  python transcribe.py 视频.mp4
+  python transcribe.py 音频.m4a --model small --language zh --output-dir ./out
+  python transcribe.py 视频.mp4 --model large-v3 --hf-mirror https://hf-mirror.com
+"""
+
+import argparse
+import json
+import os
+import subprocess
+import sys
+import tempfile
+from pathlib import Path
+
+
+def parse_args():
+    p = argparse.ArgumentParser(
+        description="视频/音频转写：提取音频并用 faster-whisper 生成文案/字幕/分段 JSON",
+    )
+    p.add_argument("input", help="视频或音频文件路径")
+    p.add_argument("--model", default="small",
+                   help="whisper 模型档位：tiny/base/small/medium/large-v2/large-v3（默认 small）")
+    p.add_argument("--language", default=None,
+                   help="语言代码（如 zh/en/ja），默认自动检测")
+    p.add_argument("--output-dir", "-o", default=None,
+                   help="输出目录（默认与输入同目录）")
+    p.add_argument("--device", default="auto",
+                   help="推理设备 auto/cpu/cuda（默认 auto）")
+    p.add_argument("--compute-type", default="auto",
+                   help="计算精度 auto/float16/int8（默认 auto）")
+    p.add_argument("--beam-size", type=int, default=5,
+                   help="beam search 宽度（默认 5，越大越慢越稳）")
+    p.add_argument("--hf-mirror", default=None,
+                   help="Hugging Face 镜像地址，如 https://hf-mirror.com（国内加速模型下载）")
+    p.add_argument("--keep-wav", action="store_true",
+                   help="保留中间抽取的 wav 音频文件")
+    return p.parse_args()
+
+
+def fmt_ts(seconds: float) -> str:
+    """秒 -> SRT 时间戳 HH:MM:SS,mmm"""
+    ms = int(round((seconds - int(seconds)) * 1000))
+    s = int(seconds)
+    h, s = divmod(s, 3600)
+    m, s = divmod(s, 60)
+    return f"{h:02d}:{m:02d}:{s:02d},{ms:03d}"
+
+
+def extract_audio(input_path: str, wav_path: str) -> None:
+    """用 ffmpeg 抽取 16kHz 单声道 wav（whisper 最稳的输入格式）"""
+    cmd = [
+        "ffmpeg", "-y", "-i", input_path,
+        "-vn", "-ac", "1", "-ar", "16000", "-c:a", "pcm_s16le",
+        wav_path,
+    ]
+    proc = subprocess.run(cmd, capture_output=True, text=True)
+    if proc.returncode != 0:
+        raise RuntimeError(
+            "ffmpeg 抽取音频失败。请确认已安装 ffmpeg 且在 PATH 中。\n" + proc.stderr[-2000:]
+        )
+
+
+def build_srt(segments) -> str:
+    lines = []
+    for i, seg in enumerate(segments, 1):
+        lines.append(str(i))
+        lines.append(f"{fmt_ts(seg.start)} --> {fmt_ts(seg.end)}")
+        lines.append(seg.text.strip())
+        lines.append("")
+    return "\n".join(lines)
+
+
+def main():
+    args = parse_args()
+
+    # 在导入 faster_whisper 之前设置环境变量，确保模型能正常下载
+    # HF_HUB_DISABLE_XET：禁用 Hugging Face 的 Xet 后端（国内/无鉴权时 Xet 的 CAS 服务器常返回 401，导致下载失败）
+    os.environ.setdefault("HF_HUB_DISABLE_XET", "1")
+    if args.hf_mirror:
+        os.environ.setdefault("HF_ENDPOINT", args.hf_mirror)
+
+    input_path = Path(args.input).resolve()
+    if not input_path.exists():
+        sys.exit(f"[错误] 找不到文件：{input_path}")
+
+    try:
+        from faster_whisper import WhisperModel
+    except ImportError:
+        sys.exit(
+            "[错误] 未安装 faster-whisper。请先运行：\n"
+            "  pip install faster-whisper\n"
+            "  或运行本 skill 的 scripts/setup_env.py 一键安装。"
+        )
+
+    out_dir = Path(args.output_dir).resolve() if args.output_dir else input_path.parent
+    out_dir.mkdir(parents=True, exist_ok=True)
+    stem = input_path.stem
+
+    # 1) 抽取音频
+    print(f"[1/3] 抽取音频：{input_path.name}", flush=True)
+    tmp_dir = tempfile.mkdtemp(prefix="vse_")
+    wav_path = os.path.join(tmp_dir, "audio.wav")
+    extract_audio(str(input_path), wav_path)
+
+    # 2) 加载模型并转写
+    print(f"[2/3] 加载模型 '{args.model}' 并转写（首次会下载模型，请耐心等待）...", flush=True)
+    model = WhisperModel(args.model, device=args.device, compute_type=args.compute_type)
+    segments, info = model.transcribe(
+        wav_path,
+        language=args.language,
+        beam_size=args.beam_size,
+        vad_filter=True,
+    )
+    seg_list = list(segments)
+
+    # 3) 写结果
+    print(f"[3/3] 写出结果到 {out_dir}", flush=True)
+    detected_lang = getattr(info, "language", args.language or "?")
+    lang_prob = getattr(info, "language_probability", None)
+
+    # 纯文案
+    txt_path = out_dir / f"{stem}.txt"
+    txt_path.write_text(
+        "\n".join(s.text.strip() for s in seg_list if s.text.strip()),
+        encoding="utf-8",
+    )
+
+    # 字幕
+    srt_path = out_dir / f"{stem}.srt"
+    srt_path.write_text(build_srt(seg_list), encoding="utf-8")
+
+    # 完整分段 JSON
+    json_path = out_dir / f"{stem}.json"
+    json_data = {
+        "source": str(input_path),
+        "model": args.model,
+        "language": detected_lang,
+        "language_probability": lang_prob,
+        "duration": getattr(info, "duration", None),
+        "segments": [
+            {
+                "id": s.id,
+                "start": round(s.start, 3),
+                "end": round(s.end, 3),
+                "text": s.text.strip(),
+                "avg_logprob": round(s.avg_logprob, 4) if s.avg_logprob is not None else None,
+                "no_speech_prob": round(s.no_speech_prob, 4) if s.no_speech_prob is not None else None,
+            }
+            for s in seg_list
+        ],
+    }
+    json_path.write_text(json.dumps(json_data, ensure_ascii=False, indent=2), encoding="utf-8")
+
+    # 清理临时文件
+    if args.keep_wav:
+        import shutil
+        keep = out_dir / f"{stem}.wav"
+        shutil.move(wav_path, str(keep))
+        print(f"  已保留音频：{keep}")
+    else:
+        import shutil
+        shutil.rmtree(tmp_dir, ignore_errors=True)
+
+    word_count = sum(len(s.text) for s in seg_list)
+    print("\n✅ 转写完成：")
+    print(f"  语言：{detected_lang}" + (f"（置信度 {lang_prob:.0%}）" if lang_prob else ""))
+    print(f"  段落数：{len(seg_list)}，字符数：约 {word_count}")
+    print(f"  纯文案：{txt_path}")
+    print(f"  字幕  ：{srt_path}")
+    print(f"  分段  ：{json_path}")
+
+
+if __name__ == "__main__":
+    main()

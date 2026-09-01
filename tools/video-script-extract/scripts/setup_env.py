@@ -1,1 +1,60 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKc2V0dXBfZW52LnB5IOKAlCDkuIDplK7liJ3lp4vljJbmnKwgc2tpbGwg55qE6L+Q6KGM546v5aKDCj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KMS4g5a6a5L2N5Y+v55So55qEIFB5dGhvbiDop6Pph4rlmajvvIjkvJjlhYjlvZPliY3mraPlnKjov5DooYznmoQgcHl0aG9u77yJCjIuIOWuieijheS+nei1lu+8mmZhc3Rlci13aGlzcGVy44CBeXQtZGxwCjMuIO+8iOWPr+mAie+8iemihOS4i+i9vSB3aGlzcGVyIOaooeWei++8jOmBv+WFjemmluasoei9rOWGmeaXtumVv+aXtumXtOetieW+hQoK55So5rOV77yaCiAgcHl0aG9uIHNldHVwX2Vudi5weSAgICAgICAgICAgICAgICAgIyDlj6roo4Xkvp3otZYKICBweXRob24gc2V0dXBfZW52LnB5IC0tbW9kZWwgc21hbGwgICAjIOijheS+nei1luW5tumihOS4i+i9vSBzbWFsbCDmqKHlnosKICBweXRob24gc2V0dXBfZW52LnB5IC0taGYtbWlycm9yIGh0dHBzOi8vaGYtbWlycm9yLmNvbSAgICMg5Zu95YaF6ZWc5YOPCiIiIgoKaW1wb3J0IGFyZ3BhcnNlCmltcG9ydCBzdWJwcm9jZXNzCmltcG9ydCBzeXMKCgpkZWYgcnVuKGNtZCk6CiAgICBwcmludCgiKyAiICsgIiAiLmpvaW4oY21kKSwgZmx1c2g9VHJ1ZSkKICAgIHJldHVybiBzdWJwcm9jZXNzLnJ1bihjbWQpLnJldHVybmNvZGUKCgpkZWYgbWFpbigpOgogICAgcCA9IGFyZ3BhcnNlLkFyZ3VtZW50UGFyc2VyKGRlc2NyaXB0aW9uPSLliJ3lp4vljJbop4bpopHmlofmoYjmj5Dlj5Ygc2tpbGwg55qE5L6d6LWW546v5aKDIikKICAgIHAuYWRkX2FyZ3VtZW50KCItLW1vZGVsIiwgZGVmYXVsdD1Ob25lLCBoZWxwPSLpooTkuIvovb3nmoQgd2hpc3BlciDmqKHlnovmoaPkvY3vvIjlj6/pgInvvIkiKQogICAgcC5hZGRfYXJndW1lbnQoIi0taGYtbWlycm9yIiwgZGVmYXVsdD1Ob25lLCBoZWxwPSJIdWdnaW5nIEZhY2Ug6ZWc5YOP77yM5aaCIGh0dHBzOi8vaGYtbWlycm9yLmNvbSIpCiAgICBhcmdzID0gcC5wYXJzZV9hcmdzKCkKCiAgICBweSA9IHN5cy5leGVjdXRhYmxlCiAgICBwcmludChmIuS9v+eUqCBQeXRob27vvJp7cHl9XG4iKQoKICAgICMgMSkg5a6J6KOF5L6d6LWWCiAgICByYyA9IHJ1bihbcHksICItbSIsICJwaXAiLCAiaW5zdGFsbCIsICItVSIsICJmYXN0ZXItd2hpc3BlciIsICJ5dC1kbHAiXSkKICAgIGlmIHJjICE9IDA6CiAgICAgICAgc3lzLmV4aXQoIlvplJnor69dIOS+nei1luWuieijheWksei0pe+8jOivt+ajgOafpee9kee7nOWQjumHjeivleOAgiIpCgogICAgIyAyKSDpooTkuIvovb3mqKHlnosKICAgIGlmIGFyZ3MubW9kZWw6CiAgICAgICAgaW1wb3J0IG9zCiAgICAgICAgb3MuZW52aXJvbi5zZXRkZWZhdWx0KCJIRl9IVUJfRElTQUJMRV9YRVQiLCAiMSIpCiAgICAgICAgaWYgYXJncy5oZl9taXJyb3I6CiAgICAgICAgICAgIG9zLmVudmlyb24uc2V0ZGVmYXVsdCgiSEZfRU5EUE9JTlQiLCBhcmdzLmhmX21pcnJvcikKICAgICAgICBwcmludChmIlxu6aKE5LiL6L295qih5Z6LICd7YXJncy5tb2RlbH0nIC4uLu+8iOmmluasoei+g+aFou+8jOWPluWGs+S6jue9kee7nO+8iSIpCiAgICAgICAgdHJ5OgogICAgICAgICAgICBmcm9tIGZhc3Rlcl93aGlzcGVyIGltcG9ydCBXaGlzcGVyTW9kZWwKICAgICAgICAgICAgV2hpc3Blck1vZGVsKGFyZ3MubW9kZWwpCiAgICAgICAgICAgIHByaW50KCLinIUg5qih5Z6L5bey5bCx57uq44CCIikKICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgIHByaW50KGYiW+itpuWRil0g5qih5Z6L6aKE5LiL6L295aSx6LSl77yae2V9IikKICAgICAgICAgICAgcHJpbnQoIiAg5Y+v56iN5ZCO6L2s5YaZ5pe26Ieq5Yqo5LiL6L2977yM5oiW5YqgIC0taGYtbWlycm9yIOaMh+WumumVnOWDj+OAgiIpCgogICAgcHJpbnQoIlxu4pyFIOeOr+Wig+WIneWni+WMluWujOaIkOOAguWPr+i/kOihjO+8miIpCiAgICBwcmludCgiICAgcHl0aG9uIHNjcmlwdHMvdHJhbnNjcmliZS5weSA86KeG6aKR5oiW6Z+z6aKR5paH5Lu2PiIpCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKQo=
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+setup_env.py — 一键初始化本 skill 的运行环境
+==============================================
+1. 定位可用的 Python 解释器（优先当前正在运行的 python）
+2. 安装依赖：faster-whisper、yt-dlp
+3. （可选）预下载 whisper 模型，避免首次转写时长时间等待
+
+用法：
+  python setup_env.py                 # 只装依赖
+  python setup_env.py --model small   # 装依赖并预下载 small 模型
+  python setup_env.py --hf-mirror https://hf-mirror.com   # 国内镜像
+"""
+
+import argparse
+import subprocess
+import sys
+
+
+def run(cmd):
+    print("+ " + " ".join(cmd), flush=True)
+    return subprocess.run(cmd).returncode
+
+
+def main():
+    p = argparse.ArgumentParser(description="初始化视频文案提取 skill 的依赖环境")
+    p.add_argument("--model", default=None, help="预下载的 whisper 模型档位（可选）")
+    p.add_argument("--hf-mirror", default=None, help="Hugging Face 镜像，如 https://hf-mirror.com")
+    args = p.parse_args()
+
+    py = sys.executable
+    print(f"使用 Python：{py}\n")
+
+    # 1) 安装依赖
+    rc = run([py, "-m", "pip", "install", "-U", "faster-whisper", "yt-dlp"])
+    if rc != 0:
+        sys.exit("[错误] 依赖安装失败，请检查网络后重试。")
+
+    # 2) 预下载模型
+    if args.model:
+        import os
+        os.environ.setdefault("HF_HUB_DISABLE_XET", "1")
+        if args.hf_mirror:
+            os.environ.setdefault("HF_ENDPOINT", args.hf_mirror)
+        print(f"\n预下载模型 '{args.model}' ...（首次较慢，取决于网络）")
+        try:
+            from faster_whisper import WhisperModel
+            WhisperModel(args.model)
+            print("✅ 模型已就绪。")
+        except Exception as e:
+            print(f"[警告] 模型预下载失败：{e}")
+            print("  可稍后转写时自动下载，或加 --hf-mirror 指定镜像。")
+
+    print("\n✅ 环境初始化完成。可运行：")
+    print("   python scripts/transcribe.py <视频或音频文件>")
+
+
+if __name__ == "__main__":
+    main()

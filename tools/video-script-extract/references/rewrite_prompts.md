@@ -1,1 +1,140 @@
-IyDkuozliJvmj5DnpLror43mqKHmnb/vvIhyZXdyaXRlIHByb21wdHPvvIkKCj4g5pys5paH5Lu25piv44CM5paH5qGI5LqM5qyh5Yib5L2c44CN55qE5qCH5YeG5o+Q56S66K+N5bqT44CC6L2s5YaZ5a6M5oiQ5ZCO77yM5oqK57qv5YeA5paH5qGI5Lqk57uZ6L+Z5Lqb5o+Q56S66K+N77yM5Lqn5Ye657uT5p6E5YyW56yU6K6wIC8g5oCd57u05a+85Zu+IC8g5ZCE5bmz5Y+w5LqM5Yib6ISa5pys44CCCj4KPiDnlKjms5XvvJrku44gYHJlZmVyZW5jZXMvYCDor7vlj5blr7nlupTlnLrmma/nmoTmj5DnpLror43mqKHmnb/vvIzmioogYHt75paH5qGIfX1gIOabv+aNouS4uui9rOWGmeaWh+acrO+8jGB7e+iHquWumuS5ieaMh+S7pH19YCDmm7/mjaLkuLrnlKjmiLfnmoTlhbfkvZPopoHmsYLvvIzlho3kvZzkuLrns7vnu5/mj5DnpLrmiJbnlKjmiLfmtojmga/kuqTnu5nlpKfmqKHlnovmiafooYzjgIIKCi0tLQoKIyMgMC4g6YCa55So5YmN572u57qm5p2f77yI5omA5pyJ5LqM5Yib5Lu75Yqh6YO95bim5LiK77yJCgoxLiDlv6Dkuo7ljp/mhI/vvJrlj6rph43nu4TjgIHmj5DngrzjgIHmlLnlhpnooajovr7vvIzkuI3lvpfmjY/pgKDljp/mlofmsqHmnInnmoTkuovlrp7jgIHmlbDmja7jgIHkurrlkI3jgIIKMi4g5Lit5paH6L6T5Ye677yM5qCH54K56KeE6IyD77yb5Y+j6K+t5YyW5Zy65pmv5YWB6K646K+t5rCU6K+N77yM5Lmm6Z2i5Zy65pmv5LiN5Ye6546w6ZSZ5Yir5a2X44CCCjMuIOiLpeWOn+aWh+S/oeaBr+S4jei2s+S7peaUr+aSkeafkOaute+8jOaYjuehruagh+azqOOAjO+8iOWOn+aWh+acquaPkOWPiu+8ieOAjeiAjOS4jeaYr+iEkeihpeOAggo0LiDljp/liJvluqbopoHmsYLvvJrkuI3lvpfnm7TmjqXlpKfmrrXnhafmioTljp/mlofvvIzpnIDnu4/ov4fnu5PmnoTkuI7mjqrovp7nmoTlrp7otKjmgKfmlLnlhpnvvIjpgb/lhY3lubPlj7Dmn6Xph43vvInjgIIKCi0tLQoKIyMgMS4g57uT5p6E5YyW55+l6K+G56yU6K6w77yINTAwfjE1MDAg5a2X77yJCgoqKuaPkOekuuivje+8mioqCmBgYAror7fmiorkuIvpnaLov5nmrrXop4bpopHovazlhpnmlofmoYjvvIzmlbTnkIbmiJDkuIDnr4cgNTAwfjE1MDAg5a2X55qE57uT5p6E5YyW5a2m5Lmg56yU6K6w77yaCjEuIOWFiOeUqOS4gOWPpeivneamguaLrOinhumikeaguOW/g+S4u+aXqO+8mwoyLiDmj5DngrwgM342IOS4quaguOW/g+ingueCue+8jOavj+S4quingueCueeUqOOAjOingueCuSArIOS+neaNri/kvovlrZDjgI3nmoTmlrnlvI/lsZXlvIDvvJsKMy4g5L+d55WZ5YWz6ZSu5pWw5o2u44CB5LiT5pyJ5ZCN6K+N44CB57uT6K665Y+l77ybCjQuIOe7k+WwvumZhOOAjOS4gOWPpeivneaAu+e7k+OAjeWSjOOAjOWPr+iQveWcsOeahOihjOWKqOW7uuiuruOAjTJ+MyDmnaHjgIIK6KaB5rGC77ya5p2h55CG5riF5pmw44CB5Y+v54us56uL6ZiF6K+777yI6K+76ICF5rKh55yL6L+H5Y6f6KeG6aKR5Lmf6IO955yL5oeC77yJ44CB5LiN57yW6YCg5Y6f5paH5rKh5pyJ55qE5YaF5a6544CCCgrmlofmoYjlpoLkuIvvvJoKe3vmlofmoYh9fQpgYGAKCi0tLQoKIyMgMi4g5oCd57u05a+85Zu+5aSn57qy77yITWFya2Rvd24g5bGC57qn77yJCgoqKuaPkOekuuivje+8mioqCmBgYAror7fmiorkuIvpnaLov5nmrrXop4bpopHmlofmoYjmj5DngrzmiJAgTWFya2Rvd24g5oCd57u05a+85Zu+5aSn57qy77yI5bGC57qn5YyW77yM5pyA5aSaIDQg5bGC77yJ77yaCi0g5qC56IqC54K5ID0g6KeG6aKR5Li76aKY77ybCi0g5LiA57qnID0g5Li76KaB5p2/5Z2X77ybCi0g5LqM57qnL+S4iee6pyA9IOWFs+mUruimgeeCueS4juS+i+ivgeOAggropoHmsYLvvJrmr4/kuKroioLngrnnlKjnn63or63vvIjkuI3otoXov4cgMTIg5a2X77yJ77yM5LiN6KaB5YaZ5a6M5pW05Y+l5a2Q77yb5Y+q5L+d55WZ5L+h5oGv6YeP5LiO6YC76L6R5YWz57O777yM5Y675o6J5Y+j6K+t5rC06K+N44CCCgrmlofmoYjlpoLkuIvvvJoKe3vmlofmoYh9fQpgYGAKCj4g55Sf5oiQ55qEIE1hcmtkb3duIOWPr+ebtOaOpeeymOi0tOi/myBYTWluZCAvIE1pbmRNYXN0ZXIgLyDluZXluIPvvIzmiJbnlKggbWVybWFpZCBtaW5kbWFwIOivreazlea4suafk+OAggoKLS0tCgojIyAzLiDkuozliJvlnLrmma/vvIg0IOWcuuaZryDDlyAzIOaho+aUueWGmeW8uuW6pu+8iQoKPiDmlLnlhpnlvLrluqbvvJoKPiAtICoq6L275bqmKirvvJrkv53nlZnljp/nu5PmnoTkuI7kv6Hmga/vvIzlj6rlgZrlj6Por63kuabpnaLljJbjgIHljrvmsLTor43jgIHpgJrpobrljJbvvIjmnIDmjqXov5Hljp/mlofvvInjgIIKPiAtICoq5Lit5bqmKirvvJrph43mjpLnu5PmnoTjgIHmjaLooajovr7jgIHmj5Dngrzph43ngrnvvIzliqDlhaXpkqnlrZDkuI7ov4fmuKHvvIjlubPooaHljp/liJvluqbkuI7kv53nnJ/vvInjgIIKPiAtICoq6YeN5bqmKirvvJrlj6rkv53nlZnmoLjlv4Pkv6Hmga/ngrnvvIzph43mlrDnu4Tnu4flj5nkuovjgIHmjaLkurrnp7Dop4bop5LjgIHliqDlhaXmg4Xnu6rkuI7lj5nkuovmioDlt6fvvIjljp/liJvluqbmnIDpq5jvvInjgIIKCiMjIyAzLjEg55+t6KeG6aKR5Y+j5pKt6ISa5pysCgoqKuaPkOekuuivje+8mioqCmBgYAror7fmiorkuIvpnaLov5nmrrXmlofmoYjmlLnlhpnkuLrkuIDmnaHnn63op4bpopHlj6Pmkq3ohJrmnKzvvIzmlLnlhpnlvLrluqbvvJp7e+i9u+W6pnzkuK3luqZ86YeN5bqmfX3jgIIK6KaB5rGC77yaCi0g5byA5aS0IDMg56eS5YaF5pyJ44CM6buE6YeR6ZKp5a2Q44CN77yI5oKs5b+1L+WPjeW3ri/nl5vngrkv5pWw5a2X77yJ77yM5ZC45byV5YGc55WZ77ybCi0g5q2j5paH5YiGIDN+NSDkuKrplZzlpLTmrrXokL3vvIzmr4/mrrXmoIfms6jjgJDplZzlpLTjgJHkuI7nlLvpnaLlu7rorq7vvJsKLSDor63oqIDlj6Por63ljJbjgIHmnInoioLlpY/mhJ/vvIzpgILlkIjnnJ/kurrmiJYgQUkg6YWN6Z+z55u05o6l5b+177ybCi0g57uT5bC+57uZ5LiA5Y+l44CM5LqS5Yqo5byV5a+844CN77yI54K56LWeL+ivhOiuui/lhbPms6jnmoTnkIbnlLHvvInjgIIKe3voh6rlrprkuYnmjIfku6R9fQoK5Y6f5paH5qGI77yaCnt75paH5qGIfX0KYGBgCgojIyMgMy4yIOWwj+e6ouS5puenjeiNieeslOiusAoKKirmj5DnpLror43vvJoqKgpgYGAK6K+35oqK5LiL6Z2i6L+Z5q615paH5qGI5pS55YaZ5Li65LiA56+H5bCP57qi5Lmm56yU6K6w77yM5pS55YaZ5by65bqm77yae3vovbvluqZ85Lit5bqmfOmHjeW6pn1944CCCuimgeaxgu+8mgotIOagh+mimO+8mmVtb2ppIOeCuee8gCArIOeXm+eCuS/liKnnm4rngrnvvIwyMCDlrZfku6XlhoXvvIznu5kgMyDkuKrlpIfpgInvvJsKLSDmraPmlofvvJrnn63lj6XliIbooYzjgIHlj6Por63ljJbvvIzlpJrnlKjjgIzlp5Dlprnku6wv5Lqy5rWLL+ecn+W/g+OAjeetieWwj+e6ouS5puivreawlO+8jOmAguW9k+eUqCBlbW9qae+8mwotIOe7k+aehO+8muW8gOWktOWFsem4oyDihpIg5qC45b+D5YaF5a655YiG54K5IOKGkiDmgLvnu5PmjqjojZDvvJsKLSDnu5PlsL7pmYQgNX44IOS4quebuOWFs+ivnemimOagh+etvu+8iCMg5byA5aS077yJ44CCCnt76Ieq5a6a5LmJ5oyH5LukfX0KCuWOn+aWh+ahiO+8mgp7e+aWh+ahiH19CmBgYAoKIyMjIDMuMyDmt7Hluqbnn6Xor4bmi4bop6MKCioq5o+Q56S66K+N77yaKioKYGBgCuivt+aKiuS4i+mdoui/meauteaWh+ahiOaUueWGmeS4uuS4gOevh+a3seW6puefpeivhuaLhuino+mVv+aWh++8jOaUueWGmeW8uuW6pu+8mnt76L275bqmfOS4reW6pnzph43luqZ9feOAggropoHmsYLvvJoKLSDpnaLlkJHjgIzmg7PlvbvlupXlvITmh4Lov5nkuKror53popjjgI3nmoTor7vogIXvvIzpgLvovpHkuKXosKjjgIHlsYLlsYLpgJLov5vvvJsKLSDkvb/nlKjjgIzmmK/ku4DkuYgg4oaSIOS4uuS7gOS5iCDihpIg5oCO5LmI5YGaIOKGkiDluLjop4Hor6/ljLrjgI3nmoTmoYbmnrbvvJsKLSDlhbPplK7mpoLlv7Xnu5nlh7rpgJrkv5fop6Pph4rmiJbnsbvmr5TvvJvmlbDmja7kv53nlZnlubbms6jmmI7mnaXmupDvvIjoi6Xljp/mlofmnInvvInvvJsKLSDnr4fluYUgODAwfjIwMDAg5a2X77yM5Y+v5Yqg5bCP5qCH6aKY44CCCnt76Ieq5a6a5LmJ5oyH5LukfX0KCuWOn+aWh+ahiO+8mgp7e+aWh+ahiH19CmBgYAoKIyMjIDMuNCDkuKrkurrmkq3lrqLorrLov7AKCioq5o+Q56S66K+N77yaKioKYGBgCuivt+aKiuS4i+mdoui/meauteaWh+ahiOaUueWGmeS4uuS4gOacn+S4quS6uuaSreWuoueahOWPo+aSreeov++8jOaUueWGmeW8uuW6pu+8mnt76L275bqmfOS4reW6pnzph43luqZ9feOAggropoHmsYLvvJoKLSDku6XnrKzkuIDkurrnp7DjgIHmnIvlj4vogYrlpKnlvI/nmoTmnb7lvJvlj6PlkLvorrLov7DvvJsKLSDnu5PmnoTvvJrlvIDlnLrlr5LmmoQgKyDlvJXlh7ror53popgg4oaSIOS4u+S9kyAyfjMg5Liq5pWF5LqLL+ingueCuSDihpIg5pS25bC+5oSf5oKf77ybCi0g6YCC5b2T5Yqg5YWl6K6+6Zeu44CB6Ieq6Zeu6Ieq562U44CB5YGc6aG/5o+Q56S677yI55So4oCm4oCm5oiW5o2i6KGM6KGo56S677yJ77ybCi0g5oC75pe26ZW/57qmIDN+OCDliIbpkp/vvIjmjInmr4/liIbpkp8gMjUwIOWtl+W3puWPs+S8sOeul+evh+W5he+8ieOAggp7e+iHquWumuS5ieaMh+S7pH19Cgrljp/mlofmoYjvvJoKe3vmlofmoYh9fQpgYGAKCi0tLQoKIyMgNC4g5om56YeP5LqM5Yib5o+Q56S66K+N77yI5LiA5qyh5Lqn5Ye65aSa6aOO5qC877yJCgoqKuaPkOekuuivje+8mioqCmBgYAror7fln7rkuo7kuIvpnaLov5nmrrXmlofmoYjvvIzkuIDmrKHmgKfkuqflh7rku6XkuIsgNCDkuKrniYjmnKzvvIzmr4/kuKrniYjmnKzni6znq4vmiJDmrrXjgIHmoIfms6jmoIfpopjvvJoKMS4g44CQ55+t6KeG6aKR5Y+j5pKt6ISa5pys44CRCjIuIOOAkOWwj+e6ouS5puenjeiNieeslOiusOOAkQozLiDjgJDmt7Hluqbnn6Xor4bmi4bop6PjgJEKNC4g44CQ5Liq5Lq65pKt5a6i5Y+j5pKt56i/44CRCue7n+S4gOS9v+eUqOOAjOS4reW6puOAjeaUueWGmeW8uuW6pu+8jOmBteWuiOOAjOW/oOS6juWOn+aEj+OAgeS4jeaNj+mAoOS6i+WunuOAjeeahOWOn+WImeOAggp7e+iHquWumuS5ieaMh+S7pH19Cgrljp/mlofmoYjvvJoKe3vmlofmoYh9fQpgYGAK
+# 二创提示词模板（rewrite prompts）
+
+> 本文件是「文案二次创作」的标准提示词库。转写完成后，把纯净文案交给这些提示词，产出结构化笔记 / 思维导图 / 各平台二创脚本。
+>
+> 用法：从 `references/` 读取对应场景的提示词模板，把 `{{文案}}` 替换为转写文本，`{{自定义指令}}` 替换为用户的具体要求，再作为系统提示或用户消息交给大模型执行。
+
+---
+
+## 0. 通用前置约束（所有二创任务都带上）
+
+1. 忠于原意：只重组、提炼、改写表达，不得捏造原文没有的事实、数据、人名。
+2. 中文输出，标点规范；口语化场景允许语气词，书面场景不出现错别字。
+3. 若原文信息不足以支撑某段，明确标注「（原文未提及）」而不是脑补。
+4. 原创度要求：不得直接大段照抄原文，需经过结构与措辞的实质性改写（避免平台查重）。
+
+---
+
+## 1. 结构化知识笔记（500~1500 字）
+
+**提示词：**
+```
+请把下面这段视频转写文案，整理成一篇 500~1500 字的结构化学习笔记：
+1. 先用一句话概括视频核心主旨；
+2. 提炼 3~6 个核心观点，每个观点用「观点 + 依据/例子」的方式展开；
+3. 保留关键数据、专有名词、结论句；
+4. 结尾附「一句话总结」和「可落地的行动建议」2~3 条。
+要求：条理清晰、可独立阅读（读者没看过原视频也能看懂）、不编造原文没有的内容。
+
+文案如下：
+{{文案}}
+```
+
+---
+
+## 2. 思维导图大纲（Markdown 层级）
+
+**提示词：**
+```
+请把下面这段视频文案提炼成 Markdown 思维导图大纲（层级化，最多 4 层）：
+- 根节点 = 视频主题；
+- 一级 = 主要板块；
+- 二级/三级 = 关键要点与例证。
+要求：每个节点用短语（不超过 12 字），不要写完整句子；只保留信息量与逻辑关系，去掉口语水词。
+
+文案如下：
+{{文案}}
+```
+
+> 生成的 Markdown 可直接粘贴进 XMind / MindMaster / 幕布，或用 mermaid mindmap 语法渲染。
+
+---
+
+## 3. 二创场景（4 场景 × 3 档改写强度）
+
+> 改写强度：
+> - **轻度**：保留原结构与信息，只做口语书面化、去水词、通顺化（最接近原文）。
+> - **中度**：重排结构、换表达、提炼重点，加入钩子与过渡（平衡原创度与保真）。
+> - **重度**：只保留核心信息点，重新组织叙事、换人称视角、加入情绪与叙事技巧（原创度最高）。
+
+### 3.1 短视频口播脚本
+
+**提示词：**
+```
+请把下面这段文案改写为一条短视频口播脚本，改写强度：{{轻度|中度|重度}}。
+要求：
+- 开头 3 秒内有「黄金钩子」（悬念/反差/痛点/数字），吸引停留；
+- 正文分 3~5 个镜头段落，每段标注【镜头】与画面建议；
+- 语言口语化、有节奏感，适合真人或 AI 配音直接念；
+- 结尾给一句「互动引导」（点赞/评论/关注的理由）。
+{{自定义指令}}
+
+原文案：
+{{文案}}
+```
+
+### 3.2 小红书种草笔记
+
+**提示词：**
+```
+请把下面这段文案改写为一篇小红书笔记，改写强度：{{轻度|中度|重度}}。
+要求：
+- 标题：emoji 点缀 + 痛点/利益点，20 字以内，给 3 个备选；
+- 正文：短句分行、口语化，多用「姐妹们/亲测/真心」等小红书语气，适当用 emoji；
+- 结构：开头共鸣 → 核心内容分点 → 总结推荐；
+- 结尾附 5~8 个相关话题标签（# 开头）。
+{{自定义指令}}
+
+原文案：
+{{文案}}
+```
+
+### 3.3 深度知识拆解
+
+**提示词：**
+```
+请把下面这段文案改写为一篇深度知识拆解长文，改写强度：{{轻度|中度|重度}}。
+要求：
+- 面向「想彻底弄懂这个话题」的读者，逻辑严谨、层层递进；
+- 使用「是什么 → 为什么 → 怎么做 → 常见误区」的框架；
+- 关键概念给出通俗解释或类比；数据保留并注明来源（若原文有）；
+- 篇幅 800~2000 字，可加小标题。
+{{自定义指令}}
+
+原文案：
+{{文案}}
+```
+
+### 3.4 个人播客讲述
+
+**提示词：**
+```
+请把下面这段文案改写为一期个人播客的口播稿，改写强度：{{轻度|中度|重度}}。
+要求：
+- 以第一人称、朋友聊天式的松弛口吻讲述；
+- 结构：开场寒暄 + 引出话题 → 主体 2~3 个故事/观点 → 收尾感悟；
+- 适当加入设问、自问自答、停顿提示（用……或换行表示）；
+- 总时长约 3~8 分钟（按每分钟 250 字左右估算篇幅）。
+{{自定义指令}}
+
+原文案：
+{{文案}}
+```
+
+---
+
+## 4. 批量二创提示词（一次产出多风格）
+
+**提示词：**
+```
+请基于下面这段文案，一次性产出以下 4 个版本，每个版本独立成段、标注标题：
+1. 【短视频口播脚本】
+2. 【小红书种草笔记】
+3. 【深度知识拆解】
+4. 【个人播客口播稿】
+统一使用「中度」改写强度，遵守「忠于原意、不捏造事实」的原则。
+{{自定义指令}}
+
+原文案：
+{{文案}}
+```
