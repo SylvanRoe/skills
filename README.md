@@ -20,10 +20,10 @@
 
 ```bash
 /plugin marketplace add SylvanRoe/skills
-/plugin install kk-skills
+/plugin install sylvanroe-skills
 ```
 
-安装后，skill 以 `/kk-skills:video-script-extract` 等形式可用。
+安装后，skill 以 `/sylvanroe-skills:video-script-extract` 等形式可用。
 
 ### 2. 作为 Skills（`npx skills`）
 
